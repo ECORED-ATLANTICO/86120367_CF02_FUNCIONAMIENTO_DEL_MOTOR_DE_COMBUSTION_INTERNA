@@ -114,7 +114,7 @@
     .fullwith-bg.fullwith-bg--curve
 
     .row.justify-content-center.mb-4.mb-lg-5
-      .col-sm-6.col-lg-4.mb-4.mb-xl-0.py-0
+      .col-sm-6.col-xl-4.mb-4.mb-xl-0.py-0
         .tarjeta.tarjeta-slide.arriba(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
           .tarjeta-slide__contenedor
@@ -126,7 +126,7 @@
               p Cromo, molibdeno o vanadio, que aumentan la resistencia al desgaste, temperatura y fatiga térmica.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/11.svg')})`}")
 
-      .col-sm-6.col-lg-4.mb-4.mb-xl-0.py-0
+      .col-sm-6.col-xl-4.mb-4.mb-xl-0.py-0
         .tarjeta.tarjeta-slide.arriba(@mouseover="indicadorTarjetaSlide = false")
           .tarjeta-slide__contenedor
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/12.svg')})`}")

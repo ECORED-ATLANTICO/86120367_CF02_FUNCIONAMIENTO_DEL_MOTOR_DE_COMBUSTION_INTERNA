@@ -143,7 +143,8 @@ figcaption
 @media (min-width: 1200px)
   .fullwith-bg
     &--3::after
-      top: 350px
+      top: 50px
+      height: 300px
       height: 700px
 
 .z-2
@@ -206,6 +207,7 @@ figcaption
   &:hover
     background-color: #CED7DB
 
+
 .tarjeta.tarjeta-slide
   background-color: #F3F9FF
   padding-left: 47px
@@ -220,3 +222,79 @@ figcaption
     display: inline-block
     border-radius: 19px
     padding: 8px 40px
+
+@media (min-width: 767px) and (max-width: 992px)
+  .tarjeta.tarjeta-slide
+    background-color: #F3F9FF
+    padding-left: 20px
+    padding-right: 20px
+    padding-top: 15px
+    padding-bottom: 5px
+
+    .tarjeta-slide__title
+      text-align: center
+      margin-bottom: 18px
+      background-color: $color-acento-botones
+      display: inline-block
+      border-radius: 19px
+      padding: 8px 40px
+
+.custom-cards
+  &__cards
+    border-radius: 21px
+    position: relative
+    overflow: visible
+    padding: 80px 20px 30px
+    height: 100%
+    &--1::before
+      position: absolute
+      content: url('../assets/curso/temas/tema3/2.svg')
+      top: -25px
+      left: 50%
+      transform: translateX(-50%)
+    &--2::before
+      position: absolute
+      content: url('../assets/curso/temas/tema3/3.svg')
+      top: -25px
+      left: 50%
+      transform: translateX(-50%)
+    &--3::before
+      position: absolute
+      content: url('../assets/curso/temas/tema3/4.svg')
+      top: -25px
+      left: 50%
+      transform: translateX(-50%)
+    &--4::before
+      position: absolute
+      content: url('../assets/curso/temas/tema3/5.svg')
+      top: -25px
+      left: 50%
+      transform: translateX(-50%)
+    &--p-20
+      padding: 20px
+    &.bg-acento-botones-20
+        background-color: #A7DED3
+    &.bg-primario-20
+        background-color: #CED7DB
+  &__img
+    width: 94px
+    margin: 0 auto
+
+.tabs-a__tab
+  background-color: $color-primario-p20
+
+@media (min-width: 992px)
+  .text-bg
+    padding: 60px 53px 67px 17px
+
+.bg-img--1
+  background-image: url('../assets/curso/temas/tema3/bg-quote.png')
+  background-position: center
+  background-size: cover
+  border-radius: 10px
+
+.bg-img--2
+  background-image: url('../assets/curso/temas/tema3/13.png')
+  background-position: center
+  background-size: cover
+  border-radius: 10px
