@@ -299,6 +299,12 @@ figcaption
   background-size: cover
   border-radius: 10px
 
+.bg-img--3
+  background-image: url('../assets/curso/temas/tema4/22.png')
+  background-position: center
+  background-size: cover
+  border-radius: 10px
+
 .motor-title
   font-size: 14px
   position: relative
@@ -356,3 +362,29 @@ figcaption
     margin-left: 20px
   .slyder-f__btn.pe-3
     margin-right: 20px
+
+
+.crd_hover_txt 
+  position: relative
+  padding: 0
+  overflow: hidden
+  border-radius: 1px
+
+
+.crd_hover_txt:hover .crd_hover_txt--body 
+  transition: all .3s ease-in-out
+  transform: translateY(0)
+
+
+.crd_hover_txt .crd_hover_txt--body 
+  position: absolute
+  padding: 18px 13px 30px
+  bottom: 0
+  transition: all .3s ease-in-out
+  transform: translateY(calc(100% - 95px))
+  background-color: #45CEB3
+
+@media (min-width: 1200px) and (max-width:1400px) 
+  .crd_hover_txt .crd_hover_txt--body p 
+      font-size: 14px
+      line-height: 18px

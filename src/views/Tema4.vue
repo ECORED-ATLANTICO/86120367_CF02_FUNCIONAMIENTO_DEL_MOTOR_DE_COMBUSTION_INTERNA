@@ -142,6 +142,95 @@
           span Componentes, montaje del cigüeñal y codos de biela
         img(src='@/assets/curso/temas/tema4/16.png', alt='Función del cigüeñal en la transmisión de fuerza del motor')
         figcaption <strong>Fuente.</strong> SENA 2025
+
+    h3(data-aos='zoom-in-right').mb-4
+      span.motor-title Esfuerzos soportados
+
+    p.my-4.my-lg-5 El cigüeñal es uno de los componentes más solicitados del motor, soportando una combinación compleja de esfuerzos:
+
+    .row.justify-content-center.align-items-center.mb-4.mb-lg-5
+      .col-8.col-sm-6.col-lg-3
+        figure
+          img(src='@/assets/curso/temas/tema4/17.png', alt='Mujer mecánica')
+      .col-lg-9
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+          .row(titulo="Esfuerzos de torsión")
+            p Generados por la fuerza de los gases de combustión actuando sobre los pistones y transmitida a través de las bielas, que hacen girar el cigüeñal.
+          .row(titulo="Esfuerzos de flexión")
+            p Causados por las fuerzas de los pistones y las fuerzas de inercia, que tienden a doblar el cigüeñal entre los puntos de apoyo (muñones de bancada).
+          .row(titulo="Esfuerzos cortantes")
+            p Presentes en las zonas de unión entre los brazos y los muñones.
+          .row(titulo="Esfuerzos de fatiga")
+            p Debido a la naturaleza cíclica de las cargas, el material del cigüeñal está sometido a esfuerzos de fatiga, lo que requiere alta resistencia para evitar fracturas.
+
+    h3(data-aos='zoom-in-right').mb-4
+      span.motor-title Materiales y fabricación
+
+    .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
+      .col-6.col-lg-2
+        figure
+          img(src='@/assets/curso/temas/tema4/18.png', alt='Los cigüeñales')
+      .col-lg-9
+        p.mb-4.mb-lg-0 Los cigüeñales se fabrican típicamente de acero forjado de alta resistencia o de fundición nodular (hierro fundido dúctil). El acero forjado ofrece mayor resistencia a la fatiga y se utiliza en motores de alto rendimiento. La fundición nodular es más económica y se emplea en la mayoría de los motores de producción.
+
+    .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
+      .col-md-10
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 17.
+          span Cigüeñal fundido
+        img(src='@/assets/curso/temas/tema4/19.png', alt='Cigüeñal fundido')
+        figcaption <strong>Fuente.</strong> SENA 2025    
+    
+    .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
+      .col-md-10
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 18.
+          span Cigüeñal forjado
+        img(src='@/assets/curso/temas/tema4/20.png', alt='Cigüeñal forjado')
+        figcaption <strong>Fuente.</strong> SENA 2025
+
+    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
+      .col-lg-10.col-xl-8.p-4.bg-img--3
+        .row.justify-content-center.align-items-center
+          .col-6.d-md-none.d-lg-block.col-lg-2.p-4
+            figure
+              img(src='@/assets/curso/temas/tema4/21.svg', alt='Ilustracion decorativa')
+          .col-lg-10
+            p.mb-0 Después del proceso de forja o fundición, el cigüeñal se somete a procesos de maquinado de precisión para dar forma a los muñones, brazos y contrapesos, y a tratamientos térmicos para mejorar sus propiedades mecánicas. Los muñones son pulidos para obtener una superficie muy lisa que minimice la fricción con los cojinetes.
+
+    .fullwith-bg.fullwith-bg--3
+
+    .row.justify-content-center.z-2
+      .col-md-7.col-lg-5.mb-4.mb-xl-0
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/tema4/23.png", alt="Desgaste de lóbulos")
+          .crd_hover_txt--body.p-4
+            h3.text-center.mb-4.mt-xl-3.mb-xl-5 TIPOS DE MATERIALES UTILIZADOS
+            h4 ACERO FORJADO
+            p Ideal para motores a alto rendimiento. Alta resistencia a fatiga. Adecuado para cargas extremas.
+            h4 FUNDICIÓN NODULAR (HIERRO DÚCTIL)
+            p Opción más económica.
+            p Adecuada para motores estándar por su buena resistencia y menor costo
+
+      .col-md-7.col-lg-5.mb-4.mb-xl-0
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/tema4/24.png", alt="FABRICACION Y ACABADOS TECNICOS")
+          .crd_hover_txt--body.p-4
+            h3.text-center.mb-4.mt-xl-3.mb-xl-5 FABRICACION Y ACABADOS TECNICOS
+            h5 MAQUINADO DE PRECISIÓN
+            p Permite formar muñones, brazos y contrapesos con exactitud dimensional.
+            h5 TRATAMIENTOS TÉRMICOS
+            p Aumentan la resistencia mecánica del material.
+            h5 PULIDO DE MUÑONES
+            p Superficie muy lisa para reducir fricción con los cojinetes
+
+
+
+
 </template>
 
 <script>
