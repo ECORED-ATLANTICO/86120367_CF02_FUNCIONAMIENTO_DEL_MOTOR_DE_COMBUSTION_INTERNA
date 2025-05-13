@@ -298,3 +298,61 @@ figcaption
   background-position: center
   background-size: cover
   border-radius: 10px
+
+.motor-title
+  font-size: 14px
+  position: relative
+  display: inline-block
+  padding: 20px 10px 20px 60px
+  background-repeat: no-repeat
+  background-position: right center
+  background-size: cover
+  background-image: url('../assets/curso/temas/title-icon-small.png')
+  &--medium
+    background-image: url('../assets/curso/temas/title-icon.svg')
+  &--large
+    background-image: url('../assets/curso/temas/title-icon.svg')
+
+
+@media (min-width: 662px)
+  .motor-title
+    font-size: 20px
+    padding: 20px 10px 20px 90px
+    background-size: cover
+
+.slyder-f
+  align-items: center
+
+.slyder-f__main
+  width: 75%
+@media (min-width: 490px)
+  .slyder-f__main
+    width: 80%
+
+.slyder-f__btn
+  height: 40px
+  width: 40px
+  min-width: 40px
+  background-color: $color-acento-botones
+  border-radius: 50%
+  padding: 0 !important
+  color: white
+  .fa-chevron-left
+    font-size: 19px
+  .fa-chevron-right
+    font-size: 19px
+
+.slyder-f__btn.ps-3
+  margin-left: 5px
+.slyder-f__btn.pe-3
+  margin-right: 5px
+
+@media (min-width: 490px)
+  .slyder-f__btn
+    height: 50px
+    width: 50px
+    min-width: 50px
+  .slyder-f__btn.ps-3
+    margin-left: 20px
+  .slyder-f__btn.pe-3
+    margin-right: 20px
