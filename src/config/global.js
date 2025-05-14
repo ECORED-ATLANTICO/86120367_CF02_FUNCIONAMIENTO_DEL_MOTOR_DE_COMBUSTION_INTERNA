@@ -208,22 +208,134 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: 'Sitio web',
-      link: '',
+      tema: 'Pasadores del pistón.',
+      referencia:
+        'Motormex (30 de diciembre de 2019). Como colocar los anillos en los pistones [Video]. YouTube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=DK3Lvwj7FVE',
+    },
+    {
+      tema: 'La biela.',
+      referencia:
+        'Motormex (30 de diciembre de 2019). Como colocar los anillos en los pistones [Video]. YouTube.',
+      tipo: 'Página <em>web</em>',
+      link: 'https://www.motor.es/que-es/biela',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Anillo de compresión',
+      significado:
+        'elementos metálicos elásticos instalados en ranuras del pistón que sellan la cámara de combustión, evitan el paso de gases hacia el cárter y aseguran una correcta compresión.',
+    },
+    {
+      termino: 'Anillo de control de aceite',
+      significado:
+        'segmento del pistón que regula el paso de aceite hacia las paredes del cilindro, evitando el exceso y asegurando una lubricación eficaz sin pérdida de compresión.',
+    },
+    {
+      termino: 'Casquillo',
+      significado:
+        'inserto metálico antifricción ubicado en el pie de biela o pistón, que permite el movimiento del pasador con mínima fricción.',
+    },
+    {
+      termino: 'Cigüeñal',
+      significado:
+        'eje principal del motor que transforma el movimiento lineal de los pistones en movimiento rotatorio.',
+    },
+    {
+      termino: 'Cojinete de bancada',
+      significado:
+        'componente antifricción que soporta los muñones del cigüeñal sobre el bloque motor, permitiendo su rotación con carga.',
+    },
+    {
+      termino: 'Cojinete de biela',
+      significado:
+        'componente antifricción bipartido que se coloca entre la cabeza de la biela y el cigüeñal, permitiendo el giro suave bajo carga.',
+    },
+    {
+      termino: 'Eje de rotación',
+      significado:
+        'línea sobre la cual gira el cigüeñal en función del movimiento impulsado por el conjunto de pistones y bielas.',
+    },
+    {
+      termino: 'Engrase',
+      significado:
+        'aplicación de lubricante en el conjunto móvil del motor para reducir fricción y desgaste en las zonas de contacto del pasador, biela y pistón.',
+    },
+    {
+      termino: 'Fricción',
+      significado:
+        'resistencia que experimentan las superficies en contacto, reducida mediante lubricación en las uniones del conjunto móvil del motor.',
+    },
+    {
+      termino: 'Juego radial',
+      significado:
+        'espacio entre el pasador de pistón y el orificio de la biela para permitir su movimiento y la lubricación.',
+    },
+    {
+      termino: 'Pasador de pistón',
+      significado:
+        'eje cilíndrico que conecta el pistón con la biela, transmitiendo la fuerza de combustión y permitiendo movimiento oscilante.',
+    },
+    {
+      termino: 'Pie de biela',
+      significado:
+        'parte superior de la biela donde se inserta el pasador del pistón; puede tener buje para reducir fricción.',
+    },
+    {
+      termino: 'Segmento de sellado',
+      significado:
+        'sinónimo de anillo de compresión, su función es asegurar la estanqueidad de la cámara de combustión.',
+    },
+    {
+      termino: 'Tolerancia',
+      significado:
+        'espacio calculado en milímetros entre componentes móviles (como pistón y cilindro) para facilitar la lubricación y evitar el desgaste.',
+    },
+    {
+      termino: 'Volante de inercia',
+      significado:
+        'disco pesado acoplado al cigüeñal que almacena y estabiliza la energía cinética, facilitando el arranque y la transmisión de potencia.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Abello Rubiano, C. E. (2012). Pasadores, anillos y bielas lubricadas. SENA.',
+    },
+    {
+      referencia: 'Auto Mecánico. (s.f.). Motor de cuatro tiempos.',
+      link: 'http://automecanico.com/auto2002/motor4.html',
+    },
+    {
+      referencia: 'Innovación Diesel. (2008, 30 de julio). Anillos del pistón.',
+      link: 'http://senaydiesel.blogspot.com/2008/07/anillos.html',
+    },
+    {
+      referencia: 'Motor Spain. (s.f.). Partes principales de un motor.',
+      link: 'http://www.motorspain.com/',
+    },
+    {
+      referencia:
+        'Precision Engine Tech. (2009, diciembre). Lubricación de cojinetes.',
+      link: 'http://www.precisionenginetech.com/',
+    },
+    {
+      referencia: 'Sabelotodo.org. (s.f.). Conjunto pistón, camisa y anillos.',
+      link: 'http://www.sabelotodo.org/automovil/pistoncamisa.html',
+    },
+    {
+      referencia: 'Tu Motor MX. (s.f.). Claro de lubricación y cojinetes.',
+      link: 'http://tumotor.mx/2010/03/claro-de-lubricacion-cojinetes/',
+    },
+    {
+      referencia:
+        'Vargas Arias, P. (Ed.). (2012). Lubricación del eje cigüeñal. SENA.',
+    },
+    {
+      referencia: 'ZF Sachs. (s.f.). Volante bimasa (Dual-Mass Flywheel).',
+      link: 'https://www.zf.com/',
     },
   ],
   creditos: [
@@ -231,14 +343,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -246,9 +359,20 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Sandra Aydeé López Contador',
+          cargo: 'Experta temática',
+          centro:
+            'Centro de Gestión de Mercados Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Heydy Cristina Gonzalez Garcia',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Jair Coll',
+          cargo: 'Evaluador instruccional',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -256,19 +380,19 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Andrés Felipe Herrera',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Fabio Fonseca Arguelles',
+          cargo: 'Desarrollador <i>full stack junior</i>',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Nelson Ivan Vera Briceño',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -276,14 +400,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Maria Fernanda Morales Angulo',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adie Villafañe',
+          cargo: 'Validador y vinculador de recursos digitales',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
