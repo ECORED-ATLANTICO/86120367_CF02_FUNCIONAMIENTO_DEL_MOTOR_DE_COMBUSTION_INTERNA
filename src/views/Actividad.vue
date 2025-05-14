@@ -150,7 +150,7 @@ export default {
           id: 5,
           texto:
             '¿Cuál es el principal material utilizado para fabricar bielas?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -271,7 +271,7 @@ export default {
         {
           id: 9,
           texto: '¿Qué tipo de pasador se utiliza comúnmente en motores?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -393,7 +393,7 @@ export default {
           id: 13,
           texto:
             '¿Cuál de los siguientes componentes está directamente relacionado con el eje cigüeñal?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -423,7 +423,7 @@ export default {
         {
           id: 14,
           texto: '¿Qué tipo de lubricante se utiliza en el motor?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -574,7 +574,7 @@ export default {
         {
           id: 19,
           texto: '¿Para qué se realiza la calibración de los pasadores?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -605,7 +605,7 @@ export default {
           id: 20,
           texto:
             '¿Para qué es crucial la correcta alineación del eje cigüeñal?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
