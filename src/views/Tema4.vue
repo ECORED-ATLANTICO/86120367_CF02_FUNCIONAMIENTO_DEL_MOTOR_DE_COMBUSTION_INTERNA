@@ -167,9 +167,9 @@
       span.motor-title Materiales y fabricación
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
-      .col-6.col-lg-2
+      .col-6.col-sm-4.col-lg-2
         figure
-          img(src='@/assets/curso/temas/tema4/18.png', alt='Los cigüeñales')
+          img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema4/18.png', alt='Los cigüeñales')
       .col-lg-9
         p.mb-4.mb-lg-0 Los cigüeñales se fabrican típicamente de acero forjado de alta resistencia o de fundición nodular (hierro fundido dúctil). El acero forjado ofrece mayor resistencia a la fatiga y se utiliza en motores de alto rendimiento. La fundición nodular es más económica y se emplea en la mayoría de los motores de producción.
 
@@ -200,7 +200,7 @@
 
     .fullwith-bg.fullwith-bg--3
 
-    .row.justify-content-center.z-2
+    .row.justify-content-center.z-2.mb-4.mb-lg-5
       .col-md-7.col-lg-5.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -229,7 +229,153 @@
             p Superficie muy lisa para reducir fricción con los cojinetes
 
 
+    h3(data-aos='zoom-in-right').mb-4
+      span.motor-title Cojinetes de bancada
 
+    .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.my-4.my-lg-5
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/25.jpg')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 Los cojinetes de bancada son casquillos antifricción bipartidos similares a los de biela, pero de mayor tamaño, que se instalan entre los muñones de bancada del cigüeñal y los alojamientos correspondientes en el bloque y las tapas de bancada. Su función es soportar el peso y las cargas del cigüeñal, permitiendo su giro suave con mínima fricción bajo lubricación hidrodinámica. Se fabrican con materiales multicapa diseñados para soportar las altas cargas radiales y axiales (en el caso del cojinete de bancada axial o de empuje que controla el movimiento longitudinal del cigüeñal) y las condiciones extremas de temperatura y presión en el motor.
+
+    .row.justify-content-center.align-items-center.z-2
+      .col-md-10
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 19.
+          span Componentes y dimensiones de cojinetes principales del cigüeñal
+        img(src='@/assets/curso/temas/tema4/26.png', alt='Componentes y dimensiones de cojinetes principales del cigüeñal')
+        figcaption <strong>Fuente.</strong> SENA 2025
+
+    Separador
+
+    #t_4_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
+      h3 4.3.	Lubricación del eje cigüeñal
+
+    p.mb-4.mb-lg-5 La lubricación del cigüeñal es vital para su funcionamiento y durabilidad, ya que reduce la fricción y el desgaste en los muñones y cojinetes.
+
+    .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.my-4.my-lg-5
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/27.jpg')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 La lubricación del cigüeñal es vital para su funcionamiento y durabilidad, ya que reduce la fricción y el desgaste en los muñones y cojinetes.
+
+    h3(data-aos='zoom-in-right').mb-4.mb-lg-5
+      span.motor-title Recorrido del aceite
+
+    .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
+      .col-sm-8.col-lg-4
+        figure
+          img.mb-3.mb-lg-0(src="@/assets/curso/temas/tema4/28.png", alt="Recorrido del aceite")
+      .col-lg-8.p-4.p-lg-5.quote-gris.pe-lg-4
+        .row.align-items-center
+          .col-xl-10
+            p.mb-0 El aceite a presión desde la bomba de aceite del motor es enviado a una galería principal de lubricación en el bloque motor. Desde esta galería, el aceite fluye hacia los alojamientos de los cojinetes de bancada. El cigüeñal tiene conductos internos que recogen el aceite de los cojinetes de bancada y lo dirigen hacia los muñones de biela, lubricando los cojinetes de biela. Desde los cojinetes de biela, el aceite puede continuar su recorrido por los conductos internos de las bielas para lubricar el pie de biela y el pasador del pistón.
+          .col-2.d-none.d-xl-block
+            figure
+              img(src="@/assets/curso/temas/tema4/29.svg", alt="Ilustacion de acompañamiento")
+
+    .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
+      .col-md-10
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 20.
+          span Ranura central del cojinete para distribución uniforme del lubricante
+        img(src='@/assets/curso/temas/tema4/30.png', alt='Ranura central del cojinete para distribución uniforme del lubricante')
+        figcaption <strong>Fuente.</strong> SENA 2025
+
+    .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
+      .col-md-10
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 21.
+          span Orificios para lubricación de cojinetes
+        img(src='@/assets/curso/temas/tema4/31.jpg', alt='Orificios para lubricación de cojinetes')
+        figcaption <strong>Fuente.</strong> SENA 2025
+
+    h3(data-aos='zoom-in-right').mb-4.mb-lg-5
+      span.motor-title.motor-title--medium Importancia del claro de lubricación
+
+    .row.justify-content-center.align-items-center.z-2
+      .col-lg-8.p-4.p-lg-5.quote-gris.pe-lg-4.mb-4.mb-lg-0
+        p.mb-0 El claro de lubricación es el pequeño espacio entre el muñón del cigüeñal (de bancada o de biela) y su respectivo cojinete. Este claro es fundamental para permitir la formación de la película de aceite lubricante cuando el cigüeñal está girando a velocidad suficiente (lubricación hidrodinámica). Una holgura de lubricación correcta asegura que haya suficiente espacio para que el aceite circule y mantenga separadas las superficies metálicas, minimizando el contacto y el desgaste. Un claro insuficiente puede impedir la formación de la película de aceite, llevando a desgaste excesivo y posible gripado. Un claro excesivo puede causar una caída en la presión de aceite, un control deficiente del mismo y ruidos anormales (golpeteo de cojinetes).
+      .col-sm-8.col-lg-4
+        figure
+          img.mb-3.mb-lg-0(src="@/assets/curso/temas/tema4/32.png", alt="Recorrido del aceite")
+
+    Separador
+
+    #t_4_4(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
+      h3 4.4.	Transmisión de la fuerza del cigüeñal
+
+    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
+      .col-lg-10.p-4.p-lg-5.px-lg-4.bg-img--4
+        .row.justify-content-center.align-items-center
+          .col-6.d-md-none.d-lg-block.col-lg-2.p-4
+            figure
+              img(src='@/assets/curso/temas/tema4/33.svg', alt='Ilustracion decorativa')
+          .col-lg-10
+            p.mb-0 La fuerza generada por los pistones y convertida en movimiento rotativo por el cigüeñal se transmite desde el cigüeñal a otros componentes. En el extremo trasero del cigüeñal (generalmente hacia la transmisión) se monta el volante de inercia. En el extremo delantero (generalmente hacia el frontal del vehículo) se monta la polea del cigüeñal. El volante de inercia transmite el movimiento a la caja de cambios a través del embrague. La polea del cigüeñal, a través de correas, impulsa los accesorios del motor como el alternador, la bomba de agua, el compresor del aire acondicionado y la bomba de dirección asistida (si es hidráulica).
+
+    .fullwith-bg.fullwith-bg--3
+
+    .row.justify-content-center.align-items-center.z-2
+      .col-md-10
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 22.
+          span Piñón del cigüeñal y conexión con ejes de levas
+        img(src='@/assets/curso/temas/tema4/34.png', alt='Piñón del cigüeñal y conexión con ejes de levas')
+        figcaption <strong>Fuente.</strong> SENA 2025
+
+    Separador
+
+    #t_4_5(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
+      h3 4.5.	Transmisión de la fuerza del cigüeñal
+
+    p.mb-4.mb-lg-5 El volante de inercia es un disco pesado montado en el extremo del cigüeñal.
+
+    .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
+      .col-sm-8.col-lg-4
+        figure
+          img.mb-3.mb-lg-0(src="@/assets/curso/temas/tema4/35.png", alt="Recorrido del aceite")
+      .col-lg-8.p-4.p-lg-5.quote-gris
+        p.mb-0 La función principal del volante de inercia es almacenar energía cinética durante las carreras de potencia (cuando los pistones generan torque) y liberar esa energía durante las carreras no motorizadas (escape, admisión, compresión). Esto ayuda a suavizar las fluctuaciones de velocidad angular del cigüeñal, proporcionando un giro más uniforme y reduciendo las vibraciones inherentes al funcionamiento de un motor alternativo. También facilita el arranque del motor y sirve como superficie de fricción para el embrague, permitiendo la conexión y desconexión entre el motor y la transmisión. En su periferia, lleva una corona dentada con la que engrana el piñón del motor de arranque para poner en marcha el motor.
+
+    .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
+      .col-md-10
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 23.
+          span Volante de inercia conectado al cigüeñal
+        img(src='@/assets/curso/temas/tema4/36.png', alt='Volante de inercia conectado al cigüeñal')
+        figcaption <strong>Fuente.</strong> SENA 2025
+
+    .row.justify-content-evenly.align-items-center.z-2.mb-4.mb-lg-5.bg-f6.p-4
+      .col-md-4.col-xl-3.d-none.d-lg-block
+        figure
+          img(src='@/assets/curso/temas/tema4/37.png', alt="Hombre mecánico")
+
+      .col-lg-8.col-xl-7
+        .row.justify-content-center
+          .col-md-6.mb-4.mb-md-0
+            .info-card.p-4
+              img.info-card__img.mb-4.mx-auto(src="@/assets/curso/temas/tema4/38.svg", alt="Ilustración decorativa")
+              h5.text-center Volante monomasa:
+              p.text-center es el diseño tradicional, un disco sólido y relativamente pesado.
+
+          .col-md-6
+            .info-card.p-4
+              img.text-center.info-card__img.mb-4.mx-auto(src="@/assets/curso/temas/tema4/39.svg", alt="Ilustración decorativa")
+              h5.text-center Volante bimasa <i>(Dual-Mass Flywheel - DMF)</i>:
+              p.text-center es un diseño más moderno que consta de dos masas (primaria y secundaria) unidas por un sistema de muelles y amortiguadores internos. La masa primaria se une al cigüeñal y la masa secundaria a la transmisión. Este diseño es más complejo, pero ofrece una mayor capacidad para amortiguar las vibraciones torsionales del cigüeñal, proporcionando un funcionamiento más suave y confortable, especialmente a bajas revoluciones. Sin embargo, son más caros y propensos a fallas con el tiempo.
+
+    .fullwith-bg.fullwith-bg--3
+
+    .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
+      .col-md-10
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 24.
+          span Volante de inercia con muelles amortiguadores
+        img(src='@/assets/curso/temas/tema4/40.svg', alt='Volante de inercia conectado al cigüeñal')
+        figcaption <strong>Fuente.</strong> SENA 2025
 
 </template>
 
