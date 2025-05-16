@@ -17,7 +17,7 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 11.
-          span Ubicación del cigüeñal
+          span <em>Ubicación del cigüeñal</em>
         img(src='@/assets/curso/temas/tema4/2.png', alt='Ubicación del cigüeñal')
         figcaption <strong>Fuente.</strong> SENA 2025
 
@@ -31,14 +31,14 @@
         figure
           img(src='@/assets/curso/temas/tema4/3.svg', alt='Tipos de pasadores según diseño del ojo de biela')
       .col-lg-9
-        p.mb-4.mb-lg-0 El montaje del pasador varía según su tipo. Para pasadores fijos, se utilizan tornillos o anillos elásticos. En el caso de pasadores flotantes, el montaje es más sencillo, simplemente insertándolos en los alojamientos del pistón y el pie de biela. El aseguramiento en pasadores flotantes se realiza mediante la instalación de anillos de seguridad (circlips) en las ranuras de los alojamientos del pasador en el pistón. Es crucial que estos anillos queden correctamente alojados para evitar el movimiento axial del pasador.
+        p.mb-4.mb-lg-0 El cigüeñal se aloja en el bloque motor en una serie de soportes llamados bancadas. Estas bancadas están formadas por semi-cilindros maquinados en la parte inferior del bloque motor y tapas de bancada atornilladas al bloque. Entre el cigüeñal y los alojamientos en el bloque y las tapas se instalan los cojinetes de bancada. La alineación y precisión de estos alojamientos son críticas para el correcto funcionamiento y durabilidad del cigüeñal y los cojinetes.
 
     .fullwith-bg.fullwith-bg--1
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 12.
-          span Cojinetes del cigüeñal
+          span <em>Cojinetes del cigüeñal</em>
         img(src='@/assets/curso/temas/tema4/4.png', alt='Cojinetes del cigüeñal')
         figcaption <strong>Fuente.</strong> SENA 2025
 
@@ -46,7 +46,7 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 13.
-          span Alineación codos del cigüeñal
+          span <em>Alineación codos del cigüeñal</em>
         img(src='@/assets/curso/temas/tema4/5.png', alt='Alineación codos del cigüeñal')
         figcaption <strong>Fuente.</strong> SENA 2025
 
@@ -64,7 +64,7 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 14.
-          span Verificación de alineación del cigüeñal con palpador micrométrico
+          span <em>Verificación de alineación del cigüeñal con palpador micrométrico</em>
         img(src='@/assets/curso/temas/tema4/7.png', alt='Alineación codos del cigüeñal')
         figcaption <strong>Fuente.</strong> SENA 2025
 
@@ -78,7 +78,7 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 15.
-          span Función del cigüeñal en la transmisión de fuerza del motor
+          span <em>Función del cigüeñal en la transmisión de fuerza del motor</em>
         img(src='@/assets/curso/temas/tema4/8.png', alt='Función del cigüeñal en la transmisión de fuerza del motor')
         figcaption <strong>Fuente.</strong> SENA 2025
 
@@ -139,7 +139,7 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 16.
-          span Componentes, montaje del cigüeñal y codos de biela
+          span <em>Componentes, montaje del cigüeñal y codos de biela</em>
         img(src='@/assets/curso/temas/tema4/16.png', alt='Función del cigüeñal en la transmisión de fuerza del motor')
         figcaption <strong>Fuente.</strong> SENA 2025
 
@@ -177,7 +177,7 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 17.
-          span Cigüeñal fundido
+          span <em>Cigüeñal fundido</em>
         img(src='@/assets/curso/temas/tema4/19.png', alt='Cigüeñal fundido')
         figcaption <strong>Fuente.</strong> SENA 2025    
     
@@ -185,7 +185,7 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 18.
-          span Cigüeñal forjado
+          span <em>Cigüeñal forjado</em>
         img(src='@/assets/curso/temas/tema4/20.png', alt='Cigüeñal forjado')
         figcaption <strong>Fuente.</strong> SENA 2025
 
@@ -212,7 +212,7 @@
             p Ideal para motores a alto rendimiento. Alta resistencia a fatiga. Adecuado para cargas extremas.
             h4 FUNDICIÓN NODULAR (HIERRO DÚCTIL)
             p Opción más económica.
-            p Adecuada para motores estándar por su buena resistencia y menor costo
+            p Adecuada para motores estándar por su buena resistencia y menor costo.
 
       .col-md-7.col-lg-5.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -226,7 +226,7 @@
             h5 TRATAMIENTOS TÉRMICOS
             p Aumentan la resistencia mecánica del material.
             h5 PULIDO DE MUÑONES
-            p Superficie muy lisa para reducir fricción con los cojinetes
+            p Superficie muy lisa para reducir fricción con los cojinetes.
 
 
     h3(data-aos='zoom-in-right').mb-4
@@ -243,7 +243,7 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 19.
-          span Componentes y dimensiones de cojinetes principales del cigüeñal
+          span <em>Componentes y dimensiones de cojinetes principales del cigüeñal</em>
         img(src='@/assets/curso/temas/tema4/26.png', alt='Componentes y dimensiones de cojinetes principales del cigüeñal')
         figcaption <strong>Fuente.</strong> SENA 2025
 
@@ -280,7 +280,7 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 20.
-          span Ranura central del cojinete para distribución uniforme del lubricante
+          span <em>Ranura central del cojinete para distribución uniforme del lubricante</em>
         img(src='@/assets/curso/temas/tema4/30.png', alt='Ranura central del cojinete para distribución uniforme del lubricante')
         figcaption <strong>Fuente.</strong> SENA 2025
 
@@ -288,7 +288,7 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 21.
-          span Orificios para lubricación de cojinetes
+          span <em>Orificios para lubricación de cojinetes</em>
         img(src='@/assets/curso/temas/tema4/31.jpg', alt='Orificios para lubricación de cojinetes')
         figcaption <strong>Fuente.</strong> SENA 2025
 
@@ -322,7 +322,7 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 22.
-          span Piñón del cigüeñal y conexión con ejes de levas
+          span <em>Piñón del cigüeñal y conexión con ejes de levas</em>
         img(src='@/assets/curso/temas/tema4/34.png', alt='Piñón del cigüeñal y conexión con ejes de levas')
         figcaption <strong>Fuente.</strong> SENA 2025
 
@@ -337,14 +337,15 @@
       .col-sm-8.col-lg-4
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/temas/tema4/35.png", alt="Recorrido del aceite")
-      .col-lg-8.p-4.p-lg-5.quote-gris
+      .col-lg-8.p-4.p-lg-5.pb-lg-4.quote-gris
+        h4 Función
         p.mb-0 La función principal del volante de inercia es almacenar energía cinética durante las carreras de potencia (cuando los pistones generan torque) y liberar esa energía durante las carreras no motorizadas (escape, admisión, compresión). Esto ayuda a suavizar las fluctuaciones de velocidad angular del cigüeñal, proporcionando un giro más uniforme y reduciendo las vibraciones inherentes al funcionamiento de un motor alternativo. También facilita el arranque del motor y sirve como superficie de fricción para el embrague, permitiendo la conexión y desconexión entre el motor y la transmisión. En su periferia, lleva una corona dentada con la que engrana el piñón del motor de arranque para poner en marcha el motor.
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 23.
-          span Volante de inercia conectado al cigüeñal
+          span <em>Volante de inercia conectado al cigüeñal</em>
         img(src='@/assets/curso/temas/tema4/36.png', alt='Volante de inercia conectado al cigüeñal')
         figcaption <strong>Fuente.</strong> SENA 2025
 
@@ -373,7 +374,7 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 24.
-          span Volante de inercia con muelles amortiguadores
+          span <em>Volante de inercia con muelles amortiguadores</em>
         img(src='@/assets/curso/temas/tema4/40.svg', alt='Volante de inercia conectado al cigüeñal')
         figcaption <strong>Fuente.</strong> SENA 2025
 

@@ -21,7 +21,7 @@ export default {
         'Evaluación del funcionamiento de pasadores, anillos y bielas lubricadas.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar el conocimiento sobre la función, tipos, materiales y procedimientos de montaje/lubricación de pasadores, anillos y bielas, así como su relación con el cigüeñal, para garantizar un diagnóstico y mantenimiento adecuados en motores de combustión interna.',
+        '<b> Objetivo:</b> evaluar el conocimiento sobre la función, tipos, materiales y procedimientos de montaje/lubricación de pasadores, anillos y bielas, así como su relación con el cigüeñal, para garantizar un diagnóstico y mantenimiento adecuados en motores de combustión interna.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',

@@ -319,11 +319,9 @@ export default {
     {
       referencia:
         'Precision Engine Tech. (2009, diciembre). Lubricación de cojinetes.',
-      link: 'http://www.precisionenginetech.com/',
     },
     {
       referencia: 'Sabelotodo.org. (s.f.). Conjunto pistón, camisa y anillos.',
-      link: 'http://www.sabelotodo.org/automovil/pistoncamisa.html',
     },
     {
       referencia: 'Tu Motor MX. (s.f.). Claro de lubricación y cojinetes.',
@@ -370,7 +368,7 @@ export default {
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Jair Coll',
+          nombre: 'Jair Coll Gallardo',
           cargo: 'Evaluador instruccional',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },

@@ -17,7 +17,7 @@
       .col-10.col-lg-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
-          span Pasador del pistón
+          span <em>Pasador del pistón</em>
         img(data-aos="fade-up")(src="@/assets/curso/temas/tema1/2.jpg", alt="Corte transversal de bloque con camisa seca")
         figcaption <strong>Fuente.</strong> SENA 2025
  
@@ -39,7 +39,7 @@
           .row(titulo="Pasador fijo a la biela")
             p En este caso, el pasador se asegura al pie de biela, a menudo por interferencia o un tornillo. El pistón oscila sobre el pasador.
           .row(titulo="Pasador flotante")
-            p Este es el tipo más común en motores modernos. El pasador no está fijo ni al pistón ni a la biela, sino que "flota" en ambos alojamientos. Se utilizan anillos de seguridad (circlips) en los extremos de los alojamientos del pistón para evitar que el pasador se desplace lateralmente y toque la pared del cilindro. Este diseño permite una mejor lubricación y distribución de la carga.
+            p Este es el tipo más común en motores modernos. El pasador no está fijo ni al pistón ni a la biela, sino que "flota" en ambos alojamientos. Se utilizan anillos de seguridad (<em>circlips</em>) en los extremos de los alojamientos del pistón para evitar que el pasador se desplace lateralmente y toque la pared del cilindro. Este diseño permite una mejor lubricación y distribución de la carga.
 
     .fullwith-bg.fullwith-bg--2
 
@@ -47,7 +47,7 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
-          span Tipos de pasadores según diseño del ojo de biela y esfuerzo de combustión
+          span <em>Tipos de pasadores según diseño del ojo de biela y esfuerzo de combustión</em>
         img(src='@/assets/curso/temas/tema1/4.png', alt='Tipos de pasadores según diseño del ojo de biela')
         figcaption <strong>Fuente.</strong> SENA 2025
 
@@ -70,7 +70,7 @@
 
     .row.justify-content-center.z-2.mb-4.mb-lg-5
       .col-lg-9
-        p.mb-4.mb-lg-0 El montaje del pasador varía según su tipo. Para pasadores fijos, se utilizan tornillos o anillos elásticos. En el caso de pasadores flotantes, el montaje es más sencillo, simplemente insertándolos en los alojamientos del pistón y el pie de biela. El aseguramiento en pasadores flotantes se realiza mediante la instalación de anillos de seguridad (circlips) en las ranuras de los alojamientos del pasador en el pistón. Es crucial que estos anillos queden correctamente alojados para evitar el movimiento axial del pasador.
+        p.mb-4.mb-lg-0 El montaje del pasador varía según su tipo. Para pasadores fijos, se utilizan tornillos o anillos elásticos. En el caso de pasadores flotantes, el montaje es más sencillo, simplemente insertándolos en los alojamientos del pistón y el pie de biela. El aseguramiento en pasadores flotantes se realiza mediante la instalación de anillos de seguridad (<em>circlips</em>) en las ranuras de los alojamientos del pasador en el pistón. Es crucial que estos anillos queden correctamente alojados para evitar el movimiento axial del pasador.
       .col-6.col-lg-2
         figure
         img(src='@/assets/curso/temas/tema1/6.png', alt='Tipos de pasadores según diseño del ojo de biela')
@@ -80,7 +80,7 @@
       .col-md-10.col-lg-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 3.
-          span Tipos de seguros para pasadores
+          span <em>Tipos de seguros para pasadores</em>
         img(src='@/assets/curso/temas/tema1/7.png', alt='Tipos de seguros para pasadores')
         figcaption <strong>Fuente.</strong> SENA 2025
 

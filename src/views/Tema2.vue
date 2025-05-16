@@ -61,7 +61,7 @@
       .col-md-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 4.
-          span Función de los anillos
+          span <em>Función de los anillos</em>
         img(src='@/assets/curso/temas/tema2/5.png', alt='Función de los anillos')
         figcaption <strong>Fuente.</strong> SENA 2025
 
@@ -95,7 +95,7 @@
       .col-md-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 5.
-          span Tipos de anillos.
+          span <em>Tipos de anillos.</em>
         img(src='@/assets/curso/temas/tema2/9.png', alt='Tipos de anillos')
         figcaption <strong>Fuente.</strong> SENA 2025
 
@@ -140,7 +140,7 @@
       Separador
 
       #t_2_4(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 2.4.	Materiales y características
+      h3 2.4.	Instalación y comprobación
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-sm-8.col-lg-5.mb-4.mb-lg-0
@@ -155,7 +155,7 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 6.
-          span Diseño de unión térmica para anillos de combustión
+          span <em>Diseño de unión térmica para anillos de combustión</em>
         img(src='@/assets/curso/temas/tema2/14.png', alt='Diseño de unión térmica para anillos de combustión')
         figcaption <strong>Fuente.</strong> SENA 2025
 
@@ -163,7 +163,7 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 7.
-          span Ubicación de los anillos
+          span <em>Ubicación de los anillos</em>
         img(src='@/assets/curso/temas/tema2/15.png', alt='Ubicación de los anillos')
         figcaption <strong>Fuente.</strong> SENA 2025
 

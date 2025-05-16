@@ -68,7 +68,7 @@
       .col-md-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 8.
-          span Componentes del pasador de pistón: cojinete y orificios
+          span <em>Componentes del pasador de pistón: cojinete y orificios</em>
         img(src='@/assets/curso/temas/tema3/7.png', alt='Componentes del pasador de pistón: cojinete y orificios')
         figcaption <strong>Fuente.</strong> SENA 2025
 
@@ -138,13 +138,13 @@
         figure
         img(src='@/assets/curso/temas/tema3/10.png', alt='Tipos de pasadores según diseño del ojo de biela')
       .col-lg-7
-        p.mb-4.mb-lg-0 Los cojinetes de biela son casquillos antifricción bipartidos que se instalan entre la cabeza de biela y el muñón de biela del cigüeñal. Su función es permitir el giro suave del cigüeñal dentro de la cabeza de biela con una mínima fricción, soportando las elevadas cargas transmitidas por la biela. Estos cojinetes son cojinetes de deslizamiento que operan bajo lubricación hidrodinámica, donde una película de aceite a presión separa completamente las superficies metálicas en movimiento. Se fabrican con materiales compuestos multicapa, típicamente con un soporte de acero, una capa intermedia de bronce o aluminio, y una capa superficial de Babbitt (una aleación de plomo, estaño y otros metales) o polímeros, optimizadas para soportar altas cargas y temperaturas, y resistir el desgaste y la corrosión.
+        p.mb-4.mb-lg-0 Los cojinetes de biela son casquillos antifricción bipartidos que se instalan entre la cabeza de biela y el muñón de biela del cigüeñal. Su función es permitir el giro suave del cigüeñal dentro de la cabeza de biela con una mínima fricción, soportando las elevadas cargas transmitidas por la biela. Estos cojinetes son cojinetes de deslizamiento que operan bajo lubricación hidrodinámica, donde una película de aceite a presión separa completamente las superficies metálicas en movimiento. Se fabrican con materiales compuestos multicapa, típicamente con un soporte de acero, una capa intermedia de bronce o aluminio, y una capa superficial de <em>Babbitt</em> (una aleación de plomo, estaño y otros metales) o polímeros, optimizadas para soportar altas cargas y temperaturas, y resistir el desgaste y la corrosión.
 
     .row.justify-content-center.align-items-center.z-2
       .col-md-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 9.
-          span Cojinete de la biela
+          span <em>Cojinete de la biela</em>
         img(src='@/assets/curso/temas/tema3/11.png', alt='Cojinete de la biela')
         figcaption <strong>Fuente.</strong> SENA 2025
 
@@ -167,7 +167,7 @@
       .col-md-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 10.
-          span Orificio de lubricación en la cabeza de biela dirigido al pistón
+          span <em>Orificio de lubricación en la cabeza de biela dirigido al pistón</em>
         img(src='@/assets/curso/temas/tema3/14.png', alt='Orificio de lubricación en la cabeza de biela dirigido al pistón')
         figcaption <strong>Fuente.</strong> SENA 2025
 
