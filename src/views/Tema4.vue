@@ -11,14 +11,14 @@
 
     .row.justify-content-center.align-items-center.z-2
       .col-lg-8
-        p.banner-text El eje cigüeñal es el componente central del motor que convierte el movimiento lineal alternativo de los pistones en movimiento rotativo.
+        p.banner-text.banner-text--up El eje cigüeñal es el componente central del motor que convierte el movimiento lineal alternativo de los pistones en movimiento rotativo.
 
     .row.justify-content-center.align-items-center.z-2.mt-5
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 11.
           span <em>Ubicación del cigüeñal</em>
-        img(src='@/assets/curso/temas/tema4/2.png', alt='Ubicación del cigüeñal')
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/2.png', alt='Ubicación del cigüeñal')
         figcaption <strong>Fuente.</strong> SENA 2025
 
     Separador
@@ -27,10 +27,10 @@
       h3 4.1.	Alojamiento del cigüeñal en el bloque
 
     .row.justify-content-center.z-2.mb-4.mb-lg-5
-      .col-6.col-lg-2
+      .col-6.col-lg-2.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema4/3.svg', alt='Tipos de pasadores según diseño del ojo de biela')
-      .col-lg-9
+          img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/3.svg', alt='Tipos de pasadores según diseño del ojo de biela')
+      .col-lg-10
         p.mb-4.mb-lg-0 El cigüeñal se aloja en el bloque motor en una serie de soportes llamados bancadas. Estas bancadas están formadas por semi-cilindros maquinados en la parte inferior del bloque motor y tapas de bancada atornilladas al bloque. Entre el cigüeñal y los alojamientos en el bloque y las tapas se instalan los cojinetes de bancada. La alineación y precisión de estos alojamientos son críticas para el correcto funcionamiento y durabilidad del cigüeñal y los cojinetes.
 
     .fullwith-bg.fullwith-bg--1
@@ -39,7 +39,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 12.
           span <em>Cojinetes del cigüeñal</em>
-        img(src='@/assets/curso/temas/tema4/4.png', alt='Cojinetes del cigüeñal')
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/4.png', alt='Cojinetes del cigüeñal')
         figcaption <strong>Fuente.</strong> SENA 2025
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
@@ -47,7 +47,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 13.
           span <em>Alineación codos del cigüeñal</em>
-        img(src='@/assets/curso/temas/tema4/5.png', alt='Alineación codos del cigüeñal')
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/5.png', alt='Alineación codos del cigüeñal')
         figcaption <strong>Fuente.</strong> SENA 2025
 
     h3(data-aos='zoom-in-right').mb-4
@@ -56,7 +56,7 @@
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-sm-8.col-lg-4.mb-4.mb-lg-0
         figure
-        img(src='@/assets/curso/temas/tema4/6.png', alt='Tipos de pasadores según diseño del ojo de biela')
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/6.png', alt='Tipos de pasadores según diseño del ojo de biela')
       .col-lg-8
         p.mb-4.mb-lg-0 La verificación del alojamiento del cigüeñal en el bloque implica la comprobación de su alineación, redondez y diámetro. Se utilizan herramientas de precisión como micrómetros de interiores y galgas para medir los diámetros de los alojamientos con y sin los cojinetes instalados. Se verifica que no haya deformaciones (ovalización o conicidad) y que los diámetros estén dentro de las tolerancias especificadas por el fabricante. Si se detectan irregularidades, puede ser necesario rectificar los alojamientos o incluso reemplazarlos si el daño es severo. La correcta verificación asegura que el cigüeñal girará libremente y que la película de lubricante hidrodinámico se formará adecuadamente.
 
@@ -65,7 +65,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 14.
           span <em>Verificación de alineación del cigüeñal con palpador micrométrico</em>
-        img(src='@/assets/curso/temas/tema4/7.png', alt='Alineación codos del cigüeñal')
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/7.png', alt='Alineación codos del cigüeñal')
         figcaption <strong>Fuente.</strong> SENA 2025
 
     .fullwith-bg.fullwith-bg--1
@@ -79,7 +79,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 15.
           span <em>Función del cigüeñal en la transmisión de fuerza del motor</em>
-        img(src='@/assets/curso/temas/tema4/8.png', alt='Función del cigüeñal en la transmisión de fuerza del motor')
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/8.png', alt='Función del cigüeñal en la transmisión de fuerza del motor')
         figcaption <strong>Fuente.</strong> SENA 2025
 
     h3(data-aos='zoom-in-right').mb-4
@@ -96,42 +96,42 @@
     .row.align-items-center.justify-content-center.mb-4.mb-lg-5
       .d-none.d-xl-block.col-xl-3
         figure
-          img(src='@/assets/curso/temas/tema4/10.png', alt='Mecánico')
+          img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/10.png', alt='Mecánico')
 
       .col-xl-8
         SlyderF(columnas="col-sm-6 col-xl-6")
           .tarjeta.color-primario-p10.p-4.px-lg-5
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/temas/tema4/11.svg' alt='Ilustracion de acompañamiento')
+                img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/11.svg' alt='Ilustracion de acompañamiento')
             h5.text-center.mb-4 Muñones de bancada:
             p.text-center son las superficies cilíndricas sobre las que el cigüeñal gira apoyado en los cojinetes de bancada en el bloque motor.
 
           .tarjeta.color-primario-p10.p-4.px-lg-5
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/temas/tema4/12.svg' alt='Ilustracion de acompañamiento')
+                img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/12.svg' alt='Ilustracion de acompañamiento')
             h5.text-center.mb-4 Muñones de biela:
             p.text-center son las superficies cilíndricas excéntricas con respecto al eje de giro del cigüeñal a las que se conectan las cabezas de biela.
 
           .tarjeta.color-primario-p10.p-4.px-lg-5
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/temas/tema4/13.svg' alt='Ilustracion de acompañamiento')
+                img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/13.svg' alt='Ilustracion de acompañamiento')
             h5.text-center.mb-4 Brazos o contrapesos:
             p.text-center conectan los muñones de bancada con los muñones de biela. Los contrapesos, que son extensiones de los brazos, tienen la función de equilibrar las fuerzas de inercia generadas por el movimiento alternativo del pistón y la biela, reduciendo las vibraciones y las cargas sobre los cojinetes.
 
           .tarjeta.color-primario-p10.p-4.px-lg-5
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/temas/tema4/14.svg' alt='Ilustracion de acompañamiento')
+                img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/14.svg' alt='Ilustracion de acompañamiento')
             h5.text-center.mb-4 Bridas o pestañas:
             p.text-center en los extremos del cigüeñal, se encuentran bridas o pestañas para la fijación del volante de inercia en un extremo y la polea del cigüeñal en el otro.
 
           .tarjeta.color-primario-p10.p-4.px-lg-5
             .row.justify-content-center.mb-3
               .col-6
-                img(src='@/assets/curso/temas/tema4/15.svg' alt='Ilustracion de acompañamiento')
+                img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/15.svg' alt='Ilustracion de acompañamiento')
             h5.text-center.mb-4 Conductos internos de lubricación:
             p.text-center el cigüeñal tiene conductos perforados internamente para permitir el flujo de aceite a presión desde los muñones de bancada hacia los muñones de biela, lubricando así los cojinetes de biela y, a través de la biela, el pasador del pistón.
 
@@ -140,7 +140,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 16.
           span <em>Componentes, montaje del cigüeñal y codos de biela</em>
-        img(src='@/assets/curso/temas/tema4/16.png', alt='Función del cigüeñal en la transmisión de fuerza del motor')
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/16.png', alt='Función del cigüeñal en la transmisión de fuerza del motor')
         figcaption <strong>Fuente.</strong> SENA 2025
 
     h3(data-aos='zoom-in-right').mb-4
@@ -149,9 +149,9 @@
     p.my-4.my-lg-5 El cigüeñal es uno de los componentes más solicitados del motor, soportando una combinación compleja de esfuerzos:
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
-      .col-8.col-sm-6.col-lg-3
+      .col-8.col-sm-6.col-lg-3.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/temas/tema4/17.png', alt='Mujer mecánica')
+          img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/17.png', alt='Mujer mecánica')
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
           .row(titulo="Esfuerzos de torsión")
@@ -178,7 +178,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 17.
           span <em>Cigüeñal fundido</em>
-        img(src='@/assets/curso/temas/tema4/19.png', alt='Cigüeñal fundido')
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/19.png', alt='Cigüeñal fundido')
         figcaption <strong>Fuente.</strong> SENA 2025    
     
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
@@ -186,7 +186,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 18.
           span <em>Cigüeñal forjado</em>
-        img(src='@/assets/curso/temas/tema4/20.png', alt='Cigüeñal forjado')
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/20.png', alt='Cigüeñal forjado')
         figcaption <strong>Fuente.</strong> SENA 2025
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
@@ -194,7 +194,7 @@
         .row.justify-content-center.align-items-center
           .col-6.d-md-none.d-lg-block.col-lg-2.p-4
             figure
-              img(src='@/assets/curso/temas/tema4/21.svg', alt='Ilustracion decorativa')
+              img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/21.svg', alt='Ilustracion decorativa')
           .col-lg-10
             p.mb-0 Después del proceso de forja o fundición, el cigüeñal se somete a procesos de maquinado de precisión para dar forma a los muñones, brazos y contrapesos, y a tratamientos térmicos para mejorar sus propiedades mecánicas. Los muñones son pulidos para obtener una superficie muy lisa que minimice la fricción con los cojinetes.
 
@@ -205,7 +205,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/23.png", alt="Desgaste de lóbulos")
+              img(data-aos="fade-up")(src="@/assets/curso/temas/tema4/23.png", alt="Desgaste de lóbulos")
           .crd_hover_txt--body.p-4
             h3.text-center.mb-4.mt-xl-3.mb-xl-5 TIPOS DE MATERIALES UTILIZADOS
             h4 ACERO FORJADO
@@ -218,7 +218,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema4/24.png", alt="FABRICACION Y ACABADOS TECNICOS")
+              img(data-aos="fade-up")(src="@/assets/curso/temas/tema4/24.png", alt="FABRICACION Y ACABADOS TECNICOS")
           .crd_hover_txt--body.p-4
             h3.text-center.mb-4.mt-xl-3.mb-xl-5 FABRICACION Y ACABADOS TECNICOS
             h5 MAQUINADO DE PRECISIÓN
@@ -244,7 +244,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 19.
           span <em>Componentes y dimensiones de cojinetes principales del cigüeñal</em>
-        img(src='@/assets/curso/temas/tema4/26.png', alt='Componentes y dimensiones de cojinetes principales del cigüeñal')
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/26.png', alt='Componentes y dimensiones de cojinetes principales del cigüeñal')
         figcaption <strong>Fuente.</strong> SENA 2025
 
     Separador
@@ -274,14 +274,14 @@
             p.mb-0 El aceite a presión desde la bomba de aceite del motor es enviado a una galería principal de lubricación en el bloque motor. Desde esta galería, el aceite fluye hacia los alojamientos de los cojinetes de bancada. El cigüeñal tiene conductos internos que recogen el aceite de los cojinetes de bancada y lo dirigen hacia los muñones de biela, lubricando los cojinetes de biela. Desde los cojinetes de biela, el aceite puede continuar su recorrido por los conductos internos de las bielas para lubricar el pie de biela y el pasador del pistón.
           .col-2.d-none.d-xl-block
             figure
-              img(src="@/assets/curso/temas/tema4/29.svg", alt="Ilustacion de acompañamiento")
+              img(data-aos="fade-up")(src="@/assets/curso/temas/tema4/29.svg", alt="Ilustacion de acompañamiento")
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 20.
           span <em>Ranura central del cojinete para distribución uniforme del lubricante</em>
-        img(src='@/assets/curso/temas/tema4/30.png', alt='Ranura central del cojinete para distribución uniforme del lubricante')
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/30.png', alt='Ranura central del cojinete para distribución uniforme del lubricante')
         figcaption <strong>Fuente.</strong> SENA 2025
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
@@ -289,7 +289,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 21.
           span <em>Orificios para lubricación de cojinetes</em>
-        img(src='@/assets/curso/temas/tema4/31.jpg', alt='Orificios para lubricación de cojinetes')
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/31.jpg', alt='Orificios para lubricación de cojinetes')
         figcaption <strong>Fuente.</strong> SENA 2025
 
     h3(data-aos='zoom-in-right').mb-4.mb-lg-5
@@ -312,7 +312,7 @@
         .row.justify-content-center.align-items-center
           .col-6.d-md-none.d-lg-block.col-lg-2.p-4
             figure
-              img(src='@/assets/curso/temas/tema4/33.svg', alt='Ilustracion decorativa')
+              img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/33.svg', alt='Ilustracion decorativa')
           .col-lg-10
             p.mb-0 La fuerza generada por los pistones y convertida en movimiento rotativo por el cigüeñal se transmite desde el cigüeñal a otros componentes. En el extremo trasero del cigüeñal (generalmente hacia la transmisión) se monta el volante de inercia. En el extremo delantero (generalmente hacia el frontal del vehículo) se monta la polea del cigüeñal. El volante de inercia transmite el movimiento a la caja de cambios a través del embrague. La polea del cigüeñal, a través de correas, impulsa los accesorios del motor como el alternador, la bomba de agua, el compresor del aire acondicionado y la bomba de dirección asistida (si es hidráulica).
 
@@ -323,7 +323,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 22.
           span <em>Piñón del cigüeñal y conexión con ejes de levas</em>
-        img(src='@/assets/curso/temas/tema4/34.png', alt='Piñón del cigüeñal y conexión con ejes de levas')
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/34.png', alt='Piñón del cigüeñal y conexión con ejes de levas')
         figcaption <strong>Fuente.</strong> SENA 2025
 
     Separador
@@ -346,13 +346,13 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 23.
           span <em>Volante de inercia conectado al cigüeñal</em>
-        img(src='@/assets/curso/temas/tema4/36.png', alt='Volante de inercia conectado al cigüeñal')
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/36.png', alt='Volante de inercia conectado al cigüeñal')
         figcaption <strong>Fuente.</strong> SENA 2025
 
     .row.justify-content-evenly.align-items-center.z-2.mb-4.mb-lg-5.bg-f6.p-4
       .col-md-4.col-xl-3.d-none.d-lg-block
         figure
-          img(src='@/assets/curso/temas/tema4/37.png', alt="Hombre mecánico")
+          img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/37.png', alt="Hombre mecánico")
 
       .col-lg-8.col-xl-7
         .row.justify-content-center
@@ -375,7 +375,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 24.
           span <em>Volante de inercia con muelles amortiguadores</em>
-        img(src='@/assets/curso/temas/tema4/40.svg', alt='Volante de inercia conectado al cigüeñal')
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/40.png', alt='Volante de inercia conectado al cigüeñal')
         figcaption <strong>Fuente.</strong> SENA 2025
 
 </template>

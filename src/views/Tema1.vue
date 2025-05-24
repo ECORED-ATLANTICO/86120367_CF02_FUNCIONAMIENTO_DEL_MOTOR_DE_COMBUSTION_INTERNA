@@ -24,7 +24,7 @@
     Separador
 
     #t_1_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 1.1.	Función y tipos
+      h3 1.1	Función y tipos
 
     p.mb-4.mb-lg-5 La función principal del pasador del pistón es articular la unión entre el pistón y el pie de biela, permitiendo el movimiento oscilante de la biela a medida que el pistón se desplaza linealmente dentro del cilindro. Existen principalmente tres tipos de montaje para los pasadores del pistón:
 
@@ -54,7 +54,7 @@
     Separador
 
     #t_1_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 1.2.	Materiales de construcción
+      h3 1.2	Materiales de construcción
 
     .row.justify-content-center.align-items-center.z-2
       .col-sm-8.col-lg-5.mb-4.mb-lg-0
@@ -66,10 +66,10 @@
     Separador
         
     #t_1_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 1.3.	Montaje y aseguramiento
+      h3 1.3	Montaje y aseguramiento
 
     .row.justify-content-center.z-2.mb-4.mb-lg-5
-      .col-lg-9
+      .col-lg-10
         p.mb-4.mb-lg-0 El montaje del pasador varía según su tipo. Para pasadores fijos, se utilizan tornillos o anillos elásticos. En el caso de pasadores flotantes, el montaje es más sencillo, simplemente insertándolos en los alojamientos del pistón y el pie de biela. El aseguramiento en pasadores flotantes se realiza mediante la instalación de anillos de seguridad (<em>circlips</em>) en las ranuras de los alojamientos del pasador en el pistón. Es crucial que estos anillos queden correctamente alojados para evitar el movimiento axial del pasador.
       .col-6.col-lg-2
         figure
