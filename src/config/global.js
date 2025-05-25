@@ -314,7 +314,6 @@ export default {
     },
     {
       referencia: 'Motor Spain. (s.f.). Partes principales de un motor.',
-      link: 'http://www.motorspain.com/',
     },
     {
       referencia:
@@ -333,7 +332,6 @@ export default {
     },
     {
       referencia: 'ZF Sachs. (s.f.). Volante bimasa (Dual-Mass Flywheel).',
-      link: 'https://www.zf.com/',
     },
   ],
   creditos: [

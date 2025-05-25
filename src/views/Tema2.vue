@@ -62,13 +62,13 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 4.
           span <em>Función de los anillos</em>
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema2/5.png', alt='Función de los anillos')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema2/5.png', alt='Se detalla en la función de los anillos: anillos de compresión, anillos de aceite y elemento eléctrico.')
+        figcaption Fuente: SENA, 2025
 
     Separador
 
     #t_2_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 2.2	Funciones principales
+      h3 2.2	Tipos de anillos
 
     p.mb-4.mb-lg-5 Típicamente, un pistón utiliza un conjunto de anillos, cada uno con una función específica:
 
@@ -97,7 +97,7 @@
           h5 Figura 5.
           span <em>Tipos de anillos.</em>
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema2/9.png', alt='Tipos de anillos')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        figcaption Fuente: SENA, 2025
 
     Separador
 
@@ -133,9 +133,9 @@
             .tarjeta-slide__contenido
               h4.tarjeta-slide__title RECUBRIMIENTOS Y DISEÑO FUNCIONAL
               h5 RECUBRIMIENTOS PARA ANILLOS DE COMPRESIÓN
-              p Cromo<br>Nitruro de titanio (<em>TiN</em>)<br>PVD (<em>Physical Vapor Deposition</em>)
+              p Cromo.<br>Nitruro de titanio (<em>TiN</em>).<br>PVD (<em>Physical Vapor Deposition</em>).
               h5 DISEÑO DE LOS ANILLOS DE ACEITE
-              p Dos aros rascadores<br>Un expansor central metálico
+              p Dos aros rascadores.<br>Un expansor central metálico.
 
       Separador
 
@@ -156,16 +156,16 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 6.
           span <em>Diseño de unión térmica para anillos de combustión</em>
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema2/14.png', alt='Diseño de unión térmica para anillos de combustión')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema2/14.png', alt='Se detalla en la figura el diseño de unión térmica para anillos de combustión: ancho del anillo, profundidad del anillo, unión diagonal, unión en grada, unión frontal, tolerancia superior, tolerancia posterior, distancia entre puntas.')
+        figcaption Fuente: SENA, 2025
 
     .row.justify-content-center.align-items-center.z-2
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 7.
           span <em>Ubicación de los anillos</em>
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema2/15.png', alt='Ubicación de los anillos')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema2/15.png', alt='Ubicación de los anillos se detalla así: anillo superior del separador de aceite, frente del motor, segundo anillo de compresión y expansor de aceite, primer anillo de compresión de aceite, pistón, anillo inferior del separador de aceite.')
+        figcaption Fuente: SENA, 2025
 
 </template>
 

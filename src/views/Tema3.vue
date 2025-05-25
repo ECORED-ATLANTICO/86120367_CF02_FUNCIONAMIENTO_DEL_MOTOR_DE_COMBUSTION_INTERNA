@@ -69,8 +69,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 8.
           span <em>Componentes del pasador de pistón: cojinete y orificios</em>
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/7.png', alt='Componentes del pasador de pistón: cojinete y orificios')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/7.png', alt='Componentes del pasador de pistón: pasador o bulón del pistón, orificio interno en el brazo, orificio en cojinete, cojinete.')
+        figcaption Fuente: SENA, 2025
 
     Separador
 
@@ -106,7 +106,7 @@
 
       .tabla-a.color-acento-contenido.z-2
         table
-          caption <strong>Fuente.</strong> Sena, 2025
+          caption Fuente: SENA, 2025
           thead
             tr(style="background-color: #F2D6D3;")
               th Tipo de biela
@@ -145,8 +145,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 9.
           span <em>Cojinete de la biela</em>
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/11.png', alt='Cojinete de la biela')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/11.png', alt='Se muestra en la figura el cojinete de la biela.')
+        figcaption Fuente: SENA, 2025
 
     Separador
 
@@ -168,8 +168,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 10.
           span <em>Orificio de lubricación en la cabeza de biela dirigido al pistón</em>
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/14.png', alt='Orificio de lubricación en la cabeza de biela dirigido al pistón')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/14.png', alt='En el orificio de lubricación en la cabeza de biela dirigido al pistón, se muestra el aceite inyectado, el orificio del inyector de aceite, orificio del cojinete, orificio del codo del cigüeñal.')
+        figcaption Fuente: SENA, 2025
 
 
 </template>

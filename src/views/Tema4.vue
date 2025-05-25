@@ -18,18 +18,18 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 11.
           span <em>Ubicación del cigüeñal</em>
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/2.png', alt='Ubicación del cigüeñal')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/2.png', alt='Se muestra la ubicación del cigüeñal y el bloque')
+        figcaption Fuente: SENA, 2025
 
     Separador
 
     #t_4_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 4.1.	Alojamiento del cigüeñal en el bloque
+      h3 4.1	Alojamiento del cigüeñal en el bloque
 
     .row.justify-content-center.z-2.mb-4.mb-lg-5
       .col-6.col-lg-2.mb-4.mb-lg-0
         figure
-          img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/3.svg', alt='Tipos de pasadores según diseño del ojo de biela')
+          img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/3.svg', alt='Alojamiento del cigüeñal en el bloque')
       .col-lg-10
         p.mb-4.mb-lg-0 El cigüeñal se aloja en el bloque motor en una serie de soportes llamados bancadas. Estas bancadas están formadas por semi-cilindros maquinados en la parte inferior del bloque motor y tapas de bancada atornilladas al bloque. Entre el cigüeñal y los alojamientos en el bloque y las tapas se instalan los cojinetes de bancada. La alineación y precisión de estos alojamientos son críticas para el correcto funcionamiento y durabilidad del cigüeñal y los cojinetes.
 
@@ -39,16 +39,16 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 12.
           span <em>Cojinetes del cigüeñal</em>
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/4.png', alt='Cojinetes del cigüeñal')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/4.png', alt='Se muestran los cojinetes de bancada')
+        figcaption Fuente: SENA, 2025
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 13.
           span <em>Alineación codos del cigüeñal</em>
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/5.png', alt='Alineación codos del cigüeñal')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/5.png', alt='Alineación codos del cigüeñal se puede apreciar el calibrador y la regla de precisión. y la fuente')
+        figcaption Fuente: SENA, 2025
 
     h3(data-aos='zoom-in-right').mb-4
       span.motor-title.motor-title--large Verificación y comprobación del alojamiento
@@ -65,12 +65,12 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 14.
           span <em>Verificación de alineación del cigüeñal con palpador micrométrico</em>
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/7.png', alt='Alineación codos del cigüeñal')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/7.png', alt='En la figura se muestra la forma de verificar la alineación del cigüeñal con palpador micrométrico.')
+        figcaption Fuente: SENA, 2025
 
     .fullwith-bg.fullwith-bg--1
     #t_4_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 4.2.	El Eje Cigüeñal
+      h3 4.2	El Eje Cigüeñal
       
     p.mb-4.mb-lg-5 El eje cigüeñal, también conocido como árbol de manivelas, es la columna vertebral giratoria del motor.
 
@@ -80,7 +80,7 @@
           h5 Figura 15.
           span <em>Función del cigüeñal en la transmisión de fuerza del motor</em>
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/8.png', alt='Función del cigüeñal en la transmisión de fuerza del motor')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        figcaption Fuente: SENA, 2025
 
     h3(data-aos='zoom-in-right').mb-4
       span.motor-title Función y partes
@@ -96,7 +96,7 @@
     .row.align-items-center.justify-content-center.mb-4.mb-lg-5
       .d-none.d-xl-block.col-xl-3
         figure
-          img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/10.png', alt='Mecánico')
+          img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/10.png', alt='Ilustración de un mecánico')
 
       .col-xl-8
         SlyderF(columnas="col-sm-6 col-xl-6")
@@ -140,8 +140,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 16.
           span <em>Componentes, montaje del cigüeñal y codos de biela</em>
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/16.png', alt='Función del cigüeñal en la transmisión de fuerza del motor')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/16.png', alt='Se detalla los componentes del cigüeñal y codos de biela: Conducto de aceite al codo de biela Contrapeso Cara [cachete] Montaje para el engrane del cigüeñal Nariz del cigüeñal donde se monta la polea Apoyo del cigüeñal Muñones principales Contrapesos Conducto de aceite del codo de biela Brida de montaje de la rueda volante [flywheel] Nota: Antes de instalar un cigüeñal se requiere comprobar que los conductos de aceite se encuentren libres [limpios]; usar aire o equivalente para comprobar el recorrido.')
+        figcaption Fuente: SENA, 2025
 
     h3(data-aos='zoom-in-right').mb-4
       span.motor-title Esfuerzos soportados
@@ -179,7 +179,7 @@
           h5 Figura 17.
           span <em>Cigüeñal fundido</em>
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/19.png', alt='Cigüeñal fundido')
-        figcaption <strong>Fuente.</strong> SENA 2025    
+        figcaption Fuente: SENA, 2025    
     
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-md-10
@@ -187,7 +187,7 @@
           h5 Figura 18.
           span <em>Cigüeñal forjado</em>
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/20.png', alt='Cigüeñal forjado')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        figcaption Fuente: SENA, 2025
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-10.col-xl-8.p-4.bg-img--3
@@ -244,22 +244,15 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 19.
           span <em>Componentes y dimensiones de cojinetes principales del cigüeñal</em>
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/26.png', alt='Componentes y dimensiones de cojinetes principales del cigüeñal')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/26.png', alt='Se detalla los componentes y dimensiones de cojinetes principales del cigüeñal: montaje para el engrane del cigüeñal, conducto de aceite al codo de biela, contrapeso, codos de biela, nariz del cigüeñal donde se monta la polea, apoyo del cigüeñal, cara(cachete), muñones principales, contrapesos, conducto de aceite del codo de biela, brida de montaje de la rueda volante.')
+        figcaption Fuente: SENA, 2025
 
     Separador
 
     #t_4_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 4.3.	Lubricación del eje cigüeñal
+      h3 4.3	Lubricación del eje cigüeñal
 
     p.mb-4.mb-lg-5 La lubricación del cigüeñal es vital para su funcionamiento y durabilidad, ya que reduce la fricción y el desgaste en los muñones y cojinetes.
-
-    .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.my-4.my-lg-5
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/27.jpg')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 La lubricación del cigüeñal es vital para su funcionamiento y durabilidad, ya que reduce la fricción y el desgaste en los muñones y cojinetes.
 
     h3(data-aos='zoom-in-right').mb-4.mb-lg-5
       span.motor-title Recorrido del aceite
@@ -281,8 +274,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 20.
           span <em>Ranura central del cojinete para distribución uniforme del lubricante</em>
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/30.png', alt='Ranura central del cojinete para distribución uniforme del lubricante')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/30.png', alt='Se muestra la ranura central del cojinete para distribución uniforme del lubricante: sistema original, block, cojinete std, perno fijación, canal lubricación, vena aceite, cojinete torneado, casquillo de cero, agujero perno fijación, agujero lubricación, block rectificado para casquillo, conjunto con reforma armado.')
+        figcaption Fuente: SENA, 2025
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-md-10
@@ -290,7 +283,7 @@
           h5 Figura 21.
           span <em>Orificios para lubricación de cojinetes</em>
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/31.jpg', alt='Orificios para lubricación de cojinetes')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        figcaption Fuente: SENA, 2025
 
     h3(data-aos='zoom-in-right').mb-4.mb-lg-5
       span.motor-title.motor-title--medium Importancia del claro de lubricación
@@ -305,7 +298,7 @@
     Separador
 
     #t_4_4(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 4.4.	Transmisión de la fuerza del cigüeñal
+      h3 4.4	Transmisión de la fuerza del cigüeñal
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-10.p-4.p-lg-5.px-lg-4.bg-img--4
@@ -324,12 +317,12 @@
           h5 Figura 22.
           span <em>Piñón del cigüeñal y conexión con ejes de levas</em>
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/34.png', alt='Piñón del cigüeñal y conexión con ejes de levas')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        figcaption Fuente: SENA, 2025
 
     Separador
 
     #t_4_5(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 4.5.	Transmisión de la fuerza del cigüeñal
+      h3 4.5 El volante de inercia
 
     p.mb-4.mb-lg-5 El volante de inercia es un disco pesado montado en el extremo del cigüeñal.
 
@@ -347,7 +340,12 @@
           h5 Figura 23.
           span <em>Volante de inercia conectado al cigüeñal</em>
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/36.png', alt='Volante de inercia conectado al cigüeñal')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        figcaption Fuente: SENA, 2025
+
+    h3(data-aos='zoom-in-right').mb-4
+      span.motor-title Estructura y tipos
+
+    p.mb-4.mb-lg-5 El volante de inercia es típicamente un disco pesado fabricado de fundición de hierro o acero. Su masa y diámetro están calculados para proporcionar la inercia necesaria según las características del motor. Existen principalmente dos tipos de volantes de inercia:
 
     .row.justify-content-evenly.align-items-center.z-2.mb-4.mb-lg-5.bg-f6.p-4
       .col-md-4.col-xl-3.d-none.d-lg-block
@@ -375,8 +373,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 24.
           span <em>Volante de inercia con muelles amortiguadores</em>
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/40.png', alt='Volante de inercia conectado al cigüeñal')
-        figcaption <strong>Fuente.</strong> SENA 2025
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/40.png', alt='Volante de inercia con muelles amortiguadores')
+        figcaption Fuente: SENA, 2025
 
 </template>
 

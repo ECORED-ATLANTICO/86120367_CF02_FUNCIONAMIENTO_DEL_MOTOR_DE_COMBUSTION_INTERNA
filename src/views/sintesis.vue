@@ -6,7 +6,7 @@
     .row.justify-content-center
       .mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="Pasadores, anillos y bielas lubricadas” ofrece una aproximación integral a la comprensión de los elementos clave del conjunto móvil del motor. A lo largo del curso se estudian desde la función de los pasadores y tipos de anillos del pistón, pasando por el diseño estructural de la biela y sus esfuerzos mecánicos, hasta la dinámica de lubricación del eje cigüeñal y el volante de inercia. El contenido profundiza en los materiales, técnicas de ensamblaje y mecanismos de deslizamiento, esenciales para garantizar la eficiencia y durabilidad del motor. Se enfatiza la importancia de cada componente en la transformación de la energía térmica en movimiento mecánico continuo y balanceado. Se sugiere elaborar un mapa mental que sintetice estos aspectos, evidenciando la relación entre la estructura interna del motor y los procesos de lubricación, montaje y transferencia de fuerza, lo cual facilita una visión práctica y técnica del funcionamiento y mantenimiento del sistema motriz.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
