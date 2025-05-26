@@ -352,19 +352,18 @@
         figure
           img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/37.png', alt="Hombre mecánico")
 
-      .col-lg-8.col-xl-7
-        .row.justify-content-center
-          .col-md-6.mb-4.mb-md-0
-            .info-card.p-4
-              img.info-card__img.mb-4.mx-auto(src="@/assets/curso/temas/tema4/38.svg", alt="Ilustración decorativa")
-              h5.text-center Volante monomasa:
-              p.text-center es el diseño tradicional, un disco sólido y relativamente pesado.
+      .col-lg-8
+        .info-horizontal-card.p-4.mb-4
+          img.info-card__img.d-none.d-md-block(src="@/assets/curso/temas/tema4/38.svg", alt="Ilustración decorativa")
+          div
+            h5 Volante monomasa:
+            p es el diseño tradicional, un disco sólido y relativamente pesado.
 
-          .col-md-6
-            .info-card.p-4
-              img.text-center.info-card__img.mb-4.mx-auto(src="@/assets/curso/temas/tema4/39.svg", alt="Ilustración decorativa")
-              h5.text-center Volante bimasa <i>(Dual-Mass Flywheel - DMF)</i>:
-              p.text-center es un diseño más moderno que consta de dos masas (primaria y secundaria) unidas por un sistema de muelles y amortiguadores internos. La masa primaria se une al cigüeñal y la masa secundaria a la transmisión. Este diseño es más complejo, pero ofrece una mayor capacidad para amortiguar las vibraciones torsionales del cigüeñal, proporcionando un funcionamiento más suave y confortable, especialmente a bajas revoluciones. Sin embargo, son más caros y propensos a fallas con el tiempo.
+        .info-horizontal-card.p-4
+          img.info-card__img.d-none.d-md-block(src="@/assets/curso/temas/tema4/39.svg", alt="Ilustración decorativa")
+          div
+            h5 Volante bimasa <i>(Dual-Mass Flywheel - DMF)</i>:
+            p es un diseño más moderno que consta de dos masas (primaria y secundaria) unidas por un sistema de muelles y amortiguadores internos. La masa primaria se une al cigüeñal y la masa secundaria a la transmisión. Este diseño es más complejo, pero ofrece una mayor capacidad para amortiguar las vibraciones torsionales del cigüeñal, proporcionando un funcionamiento más suave y confortable, especialmente a bajas revoluciones. Sin embargo, son más caros y propensos a fallas con el tiempo.
 
     .fullwith-bg.fullwith-bg--3
 
