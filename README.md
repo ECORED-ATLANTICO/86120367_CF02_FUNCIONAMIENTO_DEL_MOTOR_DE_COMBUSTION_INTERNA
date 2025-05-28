@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-atlantico.github.io/ECORED-BASE-REPO/](https://ecored-atlantico.github.io/ECORED-BASE-REPO/)
+[https://ecored-atlantico.github.io/86120367_CF02_FUNCIONAMIENTO_DEL_MOTOR_DE_COMBUSTION_INTERNA/](https://ecored-atlantico.github.io/86120367_CF02_FUNCIONAMIENTO_DEL_MOTOR_DE_COMBUSTION_INTERNA/#/)
 
 #
 
