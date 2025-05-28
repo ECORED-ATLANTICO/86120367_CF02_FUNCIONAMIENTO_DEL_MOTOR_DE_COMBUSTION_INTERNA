@@ -164,7 +164,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 7.
           span <em>Ubicación de los anillos</em>
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema2/15.png', alt='Ubicación de los anillos se detalla así: anillo superior del separador de aceite, frente del motor, segundo anillo de compresión y expansor de aceite, primer anillo de compresión de aceite, pistón, anillo inferior del separador de aceite.')
+        img(data-aos="fade-down")(src='@/assets/curso/temas/tema2/15.png', alt='Ubicación de los anillos se detalla así: anillo superior del separador de aceite, frente del motor, segundo anillo de compresión y expansor de aceite, primer anillo de compresión de aceite, pistón, anillo inferior del separador de aceite.')
         figcaption Fuente: SENA, 2025
 
 </template>

@@ -372,7 +372,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 24.
           span <em>Volante de inercia con muelles amortiguadores</em>
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/40.png', alt='Volante de inercia con muelles amortiguadores')
+        img(data-aos="fade-down")(src='@/assets/curso/temas/tema4/40.png', alt='Volante de inercia con muelles amortiguadores')
         figcaption Fuente: SENA, 2025
 
 </template>

@@ -168,7 +168,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 10.
           span <em>Orificio de lubricación en la cabeza de biela dirigido al pistón</em>
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/14.png', alt='En el orificio de lubricación en la cabeza de biela dirigido al pistón, se muestra el aceite inyectado, el orificio del inyector de aceite, orificio del cojinete, orificio del codo del cigüeñal.')
+        img(data-aos="fade-down")(src='@/assets/curso/temas/tema3/14.png', alt='En el orificio de lubricación en la cabeza de biela dirigido al pistón, se muestra el aceite inyectado, el orificio del inyector de aceite, orificio del cojinete, orificio del codo del cigüeñal.')
         figcaption Fuente: SENA, 2025
 
 
