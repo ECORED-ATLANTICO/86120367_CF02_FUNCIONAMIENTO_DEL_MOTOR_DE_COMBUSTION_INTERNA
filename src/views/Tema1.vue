@@ -17,9 +17,9 @@
       .col-10.col-lg-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
-          span <em>Pasador del pistón</em>
+          span Pasador del pistón
         img(data-aos="fade-up")(src="@/assets/curso/temas/tema1/2.jpg", alt="En la figura se detalla el pasador del pistón")
-        figcaption Fuente: SENA, 2025
+        figcaption <strong>Fuente</strong>. SENA, 2025
  
     Separador
 
@@ -47,9 +47,9 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
-          span <em>Tipos de pasadores según diseño del ojo de biela y esfuerzo de combustión</em>
+          span Tipos de pasadores según diseño del ojo de biela y esfuerzo de combustión
         img(data-aos="fade-down")(src='@/assets/curso/temas/tema1/4.png', alt='Tipos de pasadores según diseño del ojo de biela: pasador normal, pasador reforzado, pasador de alta resistencia, cilíndrico hueco, cónico hueco y taponado central, taponado lateral.')
-        figcaption Fuente: SENA, 2025
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
     Separador
 
@@ -80,9 +80,9 @@
       .col-md-10.col-lg-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 3.
-          span <em>Tipos de seguros para pasadores</em>
+          span Tipos de seguros para pasadores
         img(data-aos="fade-down")(src='@/assets/curso/temas/tema1/7.png', alt='Tipos de seguros para pasadores: se muestra en la imagen: seguro y pasador con 2 modalidades diferentes.')
-        figcaption Fuente: SENA, 2025
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
 
 </template>

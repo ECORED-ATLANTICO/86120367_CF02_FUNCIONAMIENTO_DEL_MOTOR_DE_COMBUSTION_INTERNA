@@ -68,9 +68,9 @@
       .col-md-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 8.
-          span <em>Componentes del pasador de pistón: cojinete y orificios</em>
+          span Componentes del pasador de pistón: cojinete y orificios
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/7.png', alt='Componentes del pasador de pistón: pasador o bulón del pistón, orificio interno en el brazo, orificio en cojinete, cojinete.')
-        figcaption Fuente: SENA, 2025
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
     Separador
 
@@ -144,9 +144,9 @@
       .col-md-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 9.
-          span <em>Cojinete de la biela</em>
+          span Cojinete de la biela
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/11.png', alt='Se muestra en la figura el cojinete de la biela.')
-        figcaption Fuente: SENA, 2025
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
     Separador
 
@@ -167,9 +167,9 @@
       .col-md-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 10.
-          span <em>Orificio de lubricación en la cabeza de biela dirigido al pistón</em>
+          span Orificio de lubricación en la cabeza de biela dirigido al pistón
         img(data-aos="fade-down")(src='@/assets/curso/temas/tema3/14.png', alt='En el orificio de lubricación en la cabeza de biela dirigido al pistón, se muestra el aceite inyectado, el orificio del inyector de aceite, orificio del cojinete, orificio del codo del cigüeñal.')
-        figcaption Fuente: SENA, 2025
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
 
 </template>

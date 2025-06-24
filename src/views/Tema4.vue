@@ -17,9 +17,9 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 11.
-          span <em>Ubicación del cigüeñal</em>
+          span Ubicación del cigüeñal
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/2.png', alt='Se muestra la ubicación del cigüeñal y el bloque')
-        figcaption Fuente: SENA, 2025
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
     Separador
 
@@ -38,17 +38,17 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 12.
-          span <em>Cojinetes del cigüeñal</em>
+          span Cojinetes del cigüeñal
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/4.png', alt='Se muestran los cojinetes de bancada')
-        figcaption Fuente: SENA, 2025
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 13.
-          span <em>Alineación codos del cigüeñal</em>
+          span Alineación codos del cigüeñal
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/5.png', alt='Alineación codos del cigüeñal se puede apreciar el calibrador y la regla de precisión. y la fuente')
-        figcaption Fuente: SENA, 2025
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
     h3(data-aos='zoom-in-right').mb-4
       span.motor-title.motor-title--large Verificación y comprobación del alojamiento
@@ -64,9 +64,9 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 14.
-          span <em>Verificación de alineación del cigüeñal con palpador micrométrico</em>
+          span Verificación de alineación del cigüeñal con palpador micrométrico
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/7.png', alt='En la figura se muestra la forma de verificar la alineación del cigüeñal con palpador micrométrico.')
-        figcaption Fuente: SENA, 2025
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
     .fullwith-bg.fullwith-bg--1
     #t_4_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
@@ -78,9 +78,9 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 15.
-          span <em>Función del cigüeñal en la transmisión de fuerza del motor</em>
+          span Función del cigüeñal en la transmisión de fuerza del motor
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/8.png', alt='Función del cigüeñal en la transmisión de fuerza del motor')
-        figcaption Fuente: SENA, 2025
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
     h3(data-aos='zoom-in-right').mb-4
       span.motor-title Función y partes
@@ -139,9 +139,9 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 16.
-          span <em>Componentes, montaje del cigüeñal y codos de biela</em>
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/16.png', alt='Se detalla los componentes del cigüeñal y codos de biela: Conducto de aceite al codo de biela Contrapeso Cara [cachete] Montaje para el engrane del cigüeñal Nariz del cigüeñal donde se monta la polea Apoyo del cigüeñal Muñones principales Contrapesos Conducto de aceite del codo de biela Brida de montaje de la rueda volante [flywheel] Nota: Antes de instalar un cigüeñal se requiere comprobar que los conductos de aceite se encuentren libres [limpios]; usar aire o equivalente para comprobar el recorrido.')
-        figcaption Fuente: SENA, 2025
+          span Componentes, montaje del cigüeñal y codos de biela
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/16.png', alt='Codos de biela, Conducto de aceite al codo de biela, Contrapeso, Cara [cachete], Montaje para el engrane del cigüeñal, Nariz del cigüeñal donde se monta la polea, Apoyo del cigüeñal, Muñones principales, Contrapesos, Conducto de aceite del codo de biela, Brida de montaje de la rueda volante [flywheel], Nota: Antes de instalar un cigüeñal se requiere comprobar que los conductos de aceite se encuentren libres [limpios]; usar aire o equivalente para comprobar el recorrido.')
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
     h3(data-aos='zoom-in-right').mb-4
       span.motor-title Esfuerzos soportados
@@ -177,17 +177,17 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 17.
-          span <em>Cigüeñal fundido</em>
+          span Cigüeñal fundido
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/19.png', alt='Cigüeñal fundido')
-        figcaption Fuente: SENA, 2025    
+        figcaption <strong>Fuente</strong>. SENA, 2025    
     
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 18.
-          span <em>Cigüeñal forjado</em>
+          span Cigüeñal forjado
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/20.png', alt='Cigüeñal forjado')
-        figcaption Fuente: SENA, 2025
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-10.col-xl-8.p-4.bg-img--3
@@ -243,9 +243,9 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 19.
-          span <em>Componentes y dimensiones de cojinetes principales del cigüeñal</em>
+          span Componentes y dimensiones de cojinetes principales del cigüeñal
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/26.png', alt='Se detalla los componentes y dimensiones de cojinetes principales del cigüeñal: montaje para el engrane del cigüeñal, conducto de aceite al codo de biela, contrapeso, codos de biela, nariz del cigüeñal donde se monta la polea, apoyo del cigüeñal, cara(cachete), muñones principales, contrapesos, conducto de aceite del codo de biela, brida de montaje de la rueda volante.')
-        figcaption Fuente: SENA, 2025
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
     Separador
 
@@ -273,17 +273,17 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 20.
-          span <em>Ranura central del cojinete para distribución uniforme del lubricante</em>
+          span Ranura central del cojinete para distribución uniforme del lubricante
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/30.png', alt='Se muestra la ranura central del cojinete para distribución uniforme del lubricante: sistema original, block, cojinete std, perno fijación, canal lubricación, vena aceite, cojinete torneado, casquillo de cero, agujero perno fijación, agujero lubricación, block rectificado para casquillo, conjunto con reforma armado.')
-        figcaption Fuente: SENA, 2025
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 21.
-          span <em>Orificios para lubricación de cojinetes</em>
+          span Orificios para lubricación de cojinetes
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/31.jpg', alt='Orificios para lubricación de cojinetes')
-        figcaption Fuente: SENA, 2025
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
     h3(data-aos='zoom-in-right').mb-4.mb-lg-5
       span.motor-title.motor-title--medium Importancia del claro de lubricación
@@ -315,9 +315,9 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 22.
-          span <em>Piñón del cigüeñal y conexión con ejes de levas</em>
+          span Piñón del cigüeñal y conexión con ejes de levas
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/34.png', alt='Piñón del cigüeñal y conexión con ejes de levas')
-        figcaption Fuente: SENA, 2025
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
     Separador
 
@@ -338,9 +338,9 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 23.
-          span <em>Volante de inercia conectado al cigüeñal</em>
+          span Volante de inercia conectado al cigüeñal
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/36.png', alt='Volante de inercia conectado al cigüeñal')
-        figcaption Fuente: SENA, 2025
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
     h3(data-aos='zoom-in-right').mb-4
       span.motor-title Estructura y tipos
@@ -371,9 +371,9 @@
       .col-md-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 24.
-          span <em>Volante de inercia con muelles amortiguadores</em>
+          span Volante de inercia con muelles amortiguadores
         img(data-aos="fade-down")(src='@/assets/curso/temas/tema4/40.png', alt='Volante de inercia con muelles amortiguadores')
-        figcaption Fuente: SENA, 2025
+        figcaption <strong>Fuente</strong>. SENA, 2025
 
 </template>
 
