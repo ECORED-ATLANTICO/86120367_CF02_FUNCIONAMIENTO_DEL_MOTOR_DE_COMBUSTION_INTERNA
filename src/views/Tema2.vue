@@ -63,7 +63,7 @@
           h5 Figura 4.
           span Función de los anillos
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema2/5.png', alt='Se detalla en la función de los anillos: anillos de compresión, anillos de aceite y elemento eléctrico.')
-        figcaption <strong>Fuente</strong>. SENA, 2025
+        figcaption <strong>Fuente:</strong> SENA, 2025.
 
     Separador
 
@@ -97,7 +97,7 @@
           h5 Figura 5.
           span Tipos de anillos
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema2/9.png', alt='Tipos de anillos')
-        figcaption <strong>Fuente</strong>. SENA, 2025
+        figcaption <strong>Fuente:</strong> SENA, 2025.
 
     Separador
 
@@ -157,7 +157,7 @@
           h5 Figura 6.
           span Diseño de unión térmica para anillos de combustión
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema2/14.png', alt='Se detalla en la figura el diseño de unión térmica para anillos de combustión: ancho del anillo, profundidad del anillo, unión diagonal, unión en grada, unión frontal, tolerancia superior, tolerancia posterior, distancia entre puntas.')
-        figcaption <strong>Fuente</strong>. SENA, 2025
+        figcaption <strong>Fuente:</strong> SENA, 2025.
 
     .row.justify-content-center.align-items-center.z-2
       .col-md-10
@@ -165,7 +165,7 @@
           h5 Figura 7.
           span Ubicación de los anillos
         img(data-aos="fade-down")(src='@/assets/curso/temas/tema2/15.png', alt='Ubicación de los anillos se detalla así: anillo superior del separador de aceite, frente del motor, segundo anillo de compresión y expansor de aceite, primer anillo de compresión de aceite, pistón, anillo inferior del separador de aceite.')
-        figcaption <strong>Fuente</strong>. SENA, 2025
+        figcaption <strong>Fuente:</strong> SENA, 2025.
 
 </template>
 

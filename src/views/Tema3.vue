@@ -70,7 +70,7 @@
           h5 Figura 8.
           span Componentes del pasador de pistón: cojinete y orificios
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/7.png', alt='Componentes del pasador de pistón: pasador o bulón del pistón, orificio interno en el brazo, orificio en cojinete, cojinete.')
-        figcaption <strong>Fuente</strong>. SENA, 2025
+        figcaption <strong>Fuente:</strong> SENA, 2025.
 
     Separador
 
@@ -106,7 +106,7 @@
 
       .tabla-a.color-acento-contenido.z-2
         table
-          caption Fuente: SENA, 2025
+          caption Fuente: SENA, 2025.
           thead
             tr(style="background-color: #F2D6D3;")
               th Tipo de biela
@@ -146,7 +146,7 @@
           h5 Figura 9.
           span Cojinete de la biela
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema3/11.png', alt='Se muestra en la figura el cojinete de la biela.')
-        figcaption <strong>Fuente</strong>. SENA, 2025
+        figcaption <strong>Fuente:</strong> SENA, 2025.
 
     Separador
 
@@ -169,7 +169,7 @@
           h5 Figura 10.
           span Orificio de lubricación en la cabeza de biela dirigido al pistón
         img(data-aos="fade-down")(src='@/assets/curso/temas/tema3/14.png', alt='En el orificio de lubricación en la cabeza de biela dirigido al pistón, se muestra el aceite inyectado, el orificio del inyector de aceite, orificio del cojinete, orificio del codo del cigüeñal.')
-        figcaption <strong>Fuente</strong>. SENA, 2025
+        figcaption <strong>Fuente:</strong> SENA, 2025.
 
 
 </template>
