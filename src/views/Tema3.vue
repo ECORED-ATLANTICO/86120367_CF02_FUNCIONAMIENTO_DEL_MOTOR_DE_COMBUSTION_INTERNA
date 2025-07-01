@@ -23,20 +23,20 @@
     .row.justify-content-center.align-items-stretch.z-2.custom-cards.mt-5
       .col-md-6.col-xl-3.mb-5
         .custom-cards__cards.bg-acento-botones-20.custom-cards__cards--1
-          h5.mt-5.mb-4 Esfuerzos de compresión:
-          p.mb-0.mb-4 durante la carrera de potencia, la biela soporta la fuerza descendente del pistón debido a la presión de los gases.
+          h5.mt-5.mb-4 Esfuerzos de compresión
+          p.mb-0.mb-4 Durante la carrera de potencia, la biela soporta la fuerza descendente del pistón debido a la presión de los gases.
       .col-md-6.col-xl-3.mb-5
         .custom-cards__cards.bg-primario-20.custom-cards__cards--2
-          h5.mt-5.mb-4 Esfuerzos de tracción:
-          p.mb-0.mb-4 durante la carrera de escape y admisión, la biela soporta la fuerza de inercia del pistón y los anillos cuando cambian de dirección en los puntos muertos.
+          h5.mt-5.mb-4 Esfuerzos de tracción
+          p.mb-0.mb-4 Durante la carrera de escape y admisión, la biela soporta la fuerza de inercia del pistón y los anillos cuando cambian de dirección en los puntos muertos.
       .col-md-6.col-xl-3.mb-5.mb-sm-0.mb-md-0.mb-xl-5
         .custom-cards__cards.bg-acento-botones-20.custom-cards__cards--3
-          h5.mt-5.mb-4 Esfuerzos de flexión:
-          p.mb-0.mb-4 estos ocurren debido a la excentricidad entre el eje del pistón y el muñón de biela del cigüeñal durante el ciclo.
+          h5.mt-5.mb-4 Esfuerzos de flexión
+          p.mb-0.mb-4 Estos ocurren debido a la excentricidad entre el eje del pistón y el muñón de biela del cigüeñal durante el ciclo.
       .col-md-6.col-xl-3.mb-sm-5.mb-md-0.mb-xl-5
         .custom-cards__cards.bg-acento-botones-20.custom-cards__cards--4
-          h5.mt-5.mb-4 Esfuerzos de pandeo:
-          p.mb-0.mb-4 durante la compresión, existe la posibilidad de que la biela se pandee, aunque su diseño busca minimizar esto.
+          h5.mt-5.mb-4 Esfuerzos de pandeo
+          p.mb-0.mb-4 Durante la compresión, existe la posibilidad de que la biela se pandee, aunque su diseño busca minimizar esto.
 
     Separador
 
@@ -51,14 +51,14 @@
       .col-lg-8.mb-4.mb-lg-0
         TabsA.color-acento-botones
           .tarjeta.tarjeta--primario-p5.p-4(titulo="Pie de biela")
-            h4 Pie de biela:
-            p es el extremo más pequeño de la biela y se conecta al pasador del pistón. Suele tener un buje o cojinete para el movimiento oscilante con el pasador.
+            h4 Pie de biela
+            p Es el extremo más pequeño de la biela y se conecta al pasador del pistón. Suele tener un buje o cojinete para el movimiento oscilante con el pasador.
           .tarjeta.tarjeta--primario-p5.p-4(titulo="Cuerpo de biela")
-            h4 Cuerpo de biela:
-            p es la parte central de la biela, con una sección transversal que varía según el diseño y los esfuerzos a soportar (comúnmente en forma de doble T o H).
+            h4 Cuerpo de biela
+            p Es la parte central de la biela, con una sección transversal que varía según el diseño y los esfuerzos a soportar (comúnmente en forma de doble T o H).
           .tarjeta.tarjeta--primario-p5.p-4(titulo="Cabeza de biela")
-            h4 Cabeza de biela:
-            p es el extremo más grande de la biela y se conecta al muñón de biela del cigüeñal. La cabeza de biela es bipartida, dividida en dos mitades: la biela propiamente dicha y el sombrerete de biela. Estas dos partes se unen mediante tornillos o espárragos de alta resistencia.
+            h4 Cabeza de biela
+            p Es el extremo más grande de la biela y se conecta al muñón de biela del cigüeñal. La cabeza de biela es bipartida, dividida en dos mitades: la biela propiamente dicha y el sombrerete de biela. Estas dos partes se unen mediante tornillos o espárragos de alta resistencia.
 
       .col-8.col-lg-4
         figure
@@ -116,13 +116,13 @@
               th Uso recomendado
           tbody
             tr(style="background-color: #FFFFFF;")
-              td H-Beam
+              td <em>H-Beam</em>
               td H
               td Alta carga lateral y torsión
               td Mayor
               td Motores potentes
             tr(style="background-color: #FFFFFF;")
-              td I-Beam
+              td <em>I-Beam</em>
               td I
               td Carga axial (vertical)
               td Menor

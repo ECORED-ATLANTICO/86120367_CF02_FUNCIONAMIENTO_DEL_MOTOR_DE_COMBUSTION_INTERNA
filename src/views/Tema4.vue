@@ -31,7 +31,7 @@
         figure
           img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/3.svg', alt='Alojamiento del cigüeñal en el bloque')
       .col-lg-10
-        p.mb-4.mb-lg-0 El cigüeñal se aloja en el bloque motor en una serie de soportes llamados bancadas. Estas bancadas están formadas por semi-cilindros maquinados en la parte inferior del bloque motor y tapas de bancada atornilladas al bloque. Entre el cigüeñal y los alojamientos en el bloque y las tapas se instalan los cojinetes de bancada. La alineación y precisión de estos alojamientos son críticas para el correcto funcionamiento y durabilidad del cigüeñal y los cojinetes.
+        p.mb-4.mb-lg-0 El cigüeñal se aloja en el bloque motor en una serie de soportes llamados bancadas. Estas bancadas están formadas por semicilindros maquinados en la parte inferior del bloque motor y tapas de bancada atornilladas al bloque. Entre el cigüeñal y los alojamientos en el bloque y las tapas se instalan los cojinetes de bancada. La alineación y precisión de estos alojamientos son críticas para el correcto funcionamiento y durabilidad del cigüeñal y los cojinetes.
 
     .fullwith-bg.fullwith-bg--1
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
@@ -70,7 +70,7 @@
 
     .fullwith-bg.fullwith-bg--1
     #t_4_2(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
-      h3 4.2	El Eje Cigüeñal
+      h3 4.2	El eje cigüeñal
       
     p.mb-4.mb-lg-5 El eje cigüeñal, también conocido como árbol de manivelas, es la columna vertebral giratoria del motor.
 
@@ -104,36 +104,36 @@
             .row.justify-content-center.mb-3
               .col-6
                 img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/11.svg' alt='Ilustracion de acompañamiento')
-            h5.text-center.mb-4 Muñones de bancada:
-            p.text-center son las superficies cilíndricas sobre las que el cigüeñal gira apoyado en los cojinetes de bancada en el bloque motor.
+            h5.text-center.mb-4 Muñones de bancada
+            p.text-center Son las superficies cilíndricas sobre las que el cigüeñal gira apoyado en los cojinetes de bancada en el bloque motor.
 
           .tarjeta.color-primario-p10.p-4.px-lg-5
             .row.justify-content-center.mb-3
               .col-6
                 img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/12.svg' alt='Ilustracion de acompañamiento')
-            h5.text-center.mb-4 Muñones de biela:
-            p.text-center son las superficies cilíndricas excéntricas con respecto al eje de giro del cigüeñal a las que se conectan las cabezas de biela.
+            h5.text-center.mb-4 Muñones de biela
+            p.text-center Son las superficies cilíndricas excéntricas con respecto al eje de giro del cigüeñal a las que se conectan las cabezas de biela.
 
           .tarjeta.color-primario-p10.p-4.px-lg-5
             .row.justify-content-center.mb-3
               .col-6
                 img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/13.svg' alt='Ilustracion de acompañamiento')
-            h5.text-center.mb-4 Brazos o contrapesos:
-            p.text-center conectan los muñones de bancada con los muñones de biela. Los contrapesos, que son extensiones de los brazos, tienen la función de equilibrar las fuerzas de inercia generadas por el movimiento alternativo del pistón y la biela, reduciendo las vibraciones y las cargas sobre los cojinetes.
+            h5.text-center.mb-4 Brazos o contrapesos
+            p.text-center Conectan los muñones de bancada con los muñones de biela. Los contrapesos, que son extensiones de los brazos, tienen la función de equilibrar las fuerzas de inercia generadas por el movimiento alternativo del pistón y la biela, reduciendo las vibraciones y las cargas sobre los cojinetes.
 
           .tarjeta.color-primario-p10.p-4.px-lg-5
             .row.justify-content-center.mb-3
               .col-6
                 img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/14.svg' alt='Ilustracion de acompañamiento')
-            h5.text-center.mb-4 Bridas o pestañas:
-            p.text-center en los extremos del cigüeñal, se encuentran bridas o pestañas para la fijación del volante de inercia en un extremo y la polea del cigüeñal en el otro.
+            h5.text-center.mb-4 Bridas o pestañas
+            p.text-center En los extremos del cigüeñal, se encuentran bridas o pestañas para la fijación del volante de inercia en un extremo y la polea del cigüeñal en el otro.
 
           .tarjeta.color-primario-p10.p-4.px-lg-5
             .row.justify-content-center.mb-3
               .col-6
                 img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/15.svg' alt='Ilustracion de acompañamiento')
-            h5.text-center.mb-4 Conductos internos de lubricación:
-            p.text-center el cigüeñal tiene conductos perforados internamente para permitir el flujo de aceite a presión desde los muñones de bancada hacia los muñones de biela, lubricando así los cojinetes de biela y, a través de la biela, el pasador del pistón.
+            h5.text-center.mb-4 Conductos internos de lubricación
+            p.text-center El cigüeñal tiene conductos perforados internamente para permitir el flujo de aceite a presión desde los muñones de bancada hacia los muñones de biela, lubricando así los cojinetes de biela y, a través de la biela, el pasador del pistón.
 
     .row.justify-content-center.align-items-center.z-2.mb-4.mb-lg-5
       .col-md-10
@@ -208,9 +208,9 @@
               img(data-aos="fade-up")(src="@/assets/curso/temas/tema4/23.png", alt="Desgaste de lóbulos")
           .crd_hover_txt--body.p-4
             h3.text-center.mb-4.mt-xl-3.mb-xl-5 TIPOS DE MATERIALES UTILIZADOS
-            h4 ACERO FORJADO
+            h4 Acero forjado
             p Ideal para motores a alto rendimiento. Alta resistencia a fatiga. Adecuado para cargas extremas.
-            h4 FUNDICIÓN NODULAR (HIERRO DÚCTIL)
+            h4 Fundición nodular (hierro dúctil)
             p Opción más económica.
             p Adecuada para motores estándar por su buena resistencia y menor costo.
 
@@ -221,11 +221,11 @@
               img(data-aos="fade-up")(src="@/assets/curso/temas/tema4/24.png", alt="FABRICACION Y ACABADOS TECNICOS")
           .crd_hover_txt--body.p-4
             h3.text-center.mb-4.mt-xl-3.mb-xl-5 FABRICACION Y ACABADOS TECNICOS
-            h5 MAQUINADO DE PRECISIÓN
+            h5 Maquinado de precisión
             p Permite formar muñones, brazos y contrapesos con exactitud dimensional.
-            h5 TRATAMIENTOS TÉRMICOS
+            h5 tratamientos térmicos
             p Aumentan la resistencia mecánica del material.
-            h5 PULIDO DE MUÑONES
+            h5 Pulido de muñones
             p Superficie muy lisa para reducir fricción con los cojinetes.
 
 
@@ -356,14 +356,14 @@
         .info-horizontal-card.p-4.mb-4
           img.info-card__img.d-none.d-md-block(src="@/assets/curso/temas/tema4/38.svg", alt="Ilustración decorativa")
           div
-            h5 Volante monomasa:
-            p es el diseño tradicional, un disco sólido y relativamente pesado.
+            h5 Volante monomasa
+            p Es el diseño tradicional, un disco sólido y relativamente pesado.
 
         .info-horizontal-card.p-4
           img.info-card__img.d-none.d-md-block(src="@/assets/curso/temas/tema4/39.svg", alt="Ilustración decorativa")
           div
-            h5 Volante bimasa <i>(Dual-Mass Flywheel - DMF)</i>:
-            p es un diseño más moderno que consta de dos masas (primaria y secundaria) unidas por un sistema de muelles y amortiguadores internos. La masa primaria se une al cigüeñal y la masa secundaria a la transmisión. Este diseño es más complejo, pero ofrece una mayor capacidad para amortiguar las vibraciones torsionales del cigüeñal, proporcionando un funcionamiento más suave y confortable, especialmente a bajas revoluciones. Sin embargo, son más caros y propensos a fallas con el tiempo.
+            h5 Volante bimasa <i>(Dual-Mass Flywheel - DMF)</i>
+            p Es un diseño más moderno que consta de dos masas (primaria y secundaria) unidas por un sistema de muelles y amortiguadores internos. La masa primaria se une al cigüeñal y la masa secundaria a la transmisión. Este diseño es más complejo, pero ofrece una mayor capacidad para amortiguar las vibraciones torsionales del cigüeñal, proporcionando un funcionamiento más suave y confortable, especialmente a bajas revoluciones. Sin embargo, son más caros y propensos a fallas con el tiempo.
 
     .fullwith-bg.fullwith-bg--3
 

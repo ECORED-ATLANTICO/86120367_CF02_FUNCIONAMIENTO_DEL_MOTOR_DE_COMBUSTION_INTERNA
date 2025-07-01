@@ -82,14 +82,14 @@
           .col-md-6.mb-4.mb-md-0
             .info-card.p-4
               img.info-card__img.mb-4(src="@/assets/curso/temas/tema2/7.svg", alt="Ilustración decorativa")
-              h5.titulo-quinto Anillos de compresión:
-              p suelen ser los dos anillos superiores. Están diseñados para sellar la cámara de combustión y soportar la presión de los gases. El anillo superior (primer anillo) es el que está expuesto a mayores temperaturas y presiones.
+              h5.titulo-quinto Anillos de compresión
+              p Suelen ser los dos anillos superiores. Están diseñados para sellar la cámara de combustión y soportar la presión de los gases. El anillo superior (primer anillo) es el que está expuesto a mayores temperaturas y presiones.
 
           .col-md-6
             .info-card.p-4
               img.info-card__img.mb-4(src="@/assets/curso/temas/tema2/8.svg", alt="Ilustración decorativa")
-              h5.titulo-quinto Anillo de aceite:
-              p generalmente es el anillo inferior. Su función es raspar el exceso de aceite de las paredes del cilindro durante la carrera descendente del pistón y retornarlo al cárter a través de orificios en el pistón. Suelen tener un diseño más complejo con ranuras y orificios para facilitar el drenaje del aceite.
+              h5.titulo-quinto Anillo de aceite
+              p Generalmente es el anillo inferior. Su función es raspar el exceso de aceite de las paredes del cilindro durante la carrera descendente del pistón y retornarlo al cárter a través de orificios en el pistón. Suelen tener un diseño más complejo con ranuras y orificios para facilitar el drenaje del aceite.
 
     .row.justify-content-center.align-items-center.z-2
       .col-md-8
@@ -109,7 +109,7 @@
         figure
         img(data-aos="fade-up")(src='@/assets/curso/temas/tema2/10.png', alt='Tipos de pasadores según diseño del ojo de biela')
       .col-lg-7
-        p.mb-4.mb-lg-0 Los anillos del pistón se fabrican comúnmente de fundición de hierro de alta calidad, a menudo aleada con cromo, molibdeno o vanadio para mejorar sus propiedades de resistencia al desgaste y a la temperatura. La superficie de los anillos de compresión puede tener recubrimientos de cromo, nitruro de titanio o PVD (<em>Physical Vapor Deposition</em>) para reducir la fricción y aumentar la durabilidad. Los anillos de aceite pueden estar compuestos por varias piezas (dos aros rascadores y un expansor) para mejorar su capacidad de control de aceite.
+        p.mb-4.mb-lg-0 Los anillos del pistón se fabrican comúnmente de fundición de hierro de alta calidad, a menudo aleado con cromo, molibdeno o vanadio para mejorar sus propiedades de resistencia al desgaste y a la temperatura. La superficie de los anillos de compresión puede tener recubrimientos de cromo, nitruro de titanio o PVD (<em>Physical Vapor Deposition</em>) para reducir la fricción y aumentar la durabilidad. Los anillos de aceite pueden estar compuestos por varias piezas (dos aros rascadores y un expansor) para mejorar su capacidad de control de aceite.
 
     .fullwith-bg.fullwith-bg--curve
 
@@ -120,9 +120,9 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido
               h4.tarjeta-slide__title MATERIALES Y ALEACIONES
-              h5 FUNDICIÓN DE HIERRO DE ALTA CALIDAD
+              h5 Fundición de hierro de alta calidad
               p Base común para todos los anillos, por su resistencia estructural.
-              h5 ALEACIONES ESPECIALES
+              h5 Aleaciones especiales
               p Cromo, molibdeno o vanadio, que aumentan la resistencia al desgaste, temperatura y fatiga térmica.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/11.svg')})`}")
 
@@ -132,9 +132,9 @@
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/12.svg')})`}")
             .tarjeta-slide__contenido
               h4.tarjeta-slide__title RECUBRIMIENTOS Y DISEÑO FUNCIONAL
-              h5 RECUBRIMIENTOS PARA ANILLOS DE COMPRESIÓN
+              h5 Recubrimientos para anillos de compresión
               p Cromo.<br>Nitruro de titanio (<em>TiN</em>).<br>PVD (<em>Physical Vapor Deposition</em>).
-              h5 DISEÑO DE LOS ANILLOS DE ACEITE
+              h5 Diseño de los anillos de aceite
               p Dos aros rascadores.<br>Un expansor central metálico.
 
       Separador

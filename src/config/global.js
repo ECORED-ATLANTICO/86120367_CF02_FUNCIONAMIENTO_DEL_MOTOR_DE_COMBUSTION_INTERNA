@@ -217,7 +217,7 @@ export default {
     {
       tema: 'La biela.',
       referencia:
-        'Motormex (30 de diciembre de 2019). Como colocar los anillos en los pistones [Video]. YouTube.',
+        'Motormex (30 de diciembre de 2019). ¿Qué es una biela? Función y partes.',
       tipo: 'Página <em>web</em>',
       link: 'https://www.motor.es/que-es/biela',
     },
