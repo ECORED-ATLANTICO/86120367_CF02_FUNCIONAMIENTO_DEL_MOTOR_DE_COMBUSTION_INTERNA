@@ -207,7 +207,7 @@
             figure
               img(data-aos="fade-up")(src="@/assets/curso/temas/tema4/23.png", alt="Desgaste de lóbulos")
           .crd_hover_txt--body.p-4
-            h3.text-center.mb-4.mt-xl-3.mb-xl-5 TIPOS DE MATERIALES UTILIZADOS
+            h3.text-center.mb-4.mt-xl-3.mb-xl-5 Tipos de materiales utilizados
             h4 Acero forjado
             p Ideal para motores a alto rendimiento. Alta resistencia a fatiga. Adecuado para cargas extremas.
             h4 Fundición nodular (hierro dúctil)
@@ -220,10 +220,10 @@
             figure
               img(data-aos="fade-up")(src="@/assets/curso/temas/tema4/24.png", alt="FABRICACION Y ACABADOS TECNICOS")
           .crd_hover_txt--body.p-4
-            h3.text-center.mb-4.mt-xl-3.mb-xl-5 FABRICACION Y ACABADOS TECNICOS
+            h3.text-center.mb-4.mt-xl-3.mb-xl-5 Fabricación y acabados técnicos
             h5 Maquinado de precisión
             p Permite formar muñones, brazos y contrapesos con exactitud dimensional.
-            h5 tratamientos térmicos
+            h5 Tratamientos térmicos
             p Aumentan la resistencia mecánica del material.
             h5 Pulido de muñones
             p Superficie muy lisa para reducir fricción con los cojinetes.
