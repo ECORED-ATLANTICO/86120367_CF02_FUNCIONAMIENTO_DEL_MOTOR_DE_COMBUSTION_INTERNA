@@ -47,7 +47,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 13.
           span Alineación codos del cigüeñal
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/5.png', alt='Alineación codos del cigüeñal se puede apreciar el calibrador y la regla de precisión. y la fuente')
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/5.png', alt='Alineación codos del cigüeñal se puede apreciar el calibrador y la regla de precisión.')
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
     h3(data-aos='zoom-in-right').mb-4
@@ -244,7 +244,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 19.
           span Componentes y dimensiones de cojinetes principales del cigüeñal
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/26.png', alt='Se detalla los componentes y dimensiones de cojinetes principales del cigüeñal: montaje para el engrane del cigüeñal, conducto de aceite al codo de biela, contrapeso, codos de biela, nariz del cigüeñal donde se monta la polea, apoyo del cigüeñal, cara(cachete), muñones principales, contrapesos, conducto de aceite del codo de biela, brida de montaje de la rueda volante.')
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema4/26.png', alt='Se detalla los componentes y dimensiones de cojinetes principales del cigüeñal: espesor de ceja, muesca de ubicación, chaflán, barreno de lubricación, ranura de lubricación, ranura de cara, área antifricción, diámetro exterior, diámetro interior, ancho interior entre caras, ancho del cojinete.')
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
     Separador

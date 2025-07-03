@@ -96,7 +96,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 5.
           span Tipos de anillos
-        img(data-aos="fade-up")(src='@/assets/curso/temas/tema2/9.png', alt='Tipos de anillos')
+        img(data-aos="fade-up")(src='@/assets/curso/temas/tema2/9.png', alt='Los tipos de anillos se clasifican en: anillos de comprensión y anillo de aceite.')
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
     Separador
